@@ -43,14 +43,14 @@
 
 ## 🌍 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/farhanislam20" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:farhanrohit2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐️ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+⭐️ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*  
