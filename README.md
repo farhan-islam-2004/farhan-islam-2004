@@ -1,6 +1,8 @@
 # Hi there, I'm Farhan 👋  
 
-![Coding Boy GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Boy GIF" width="400"/>
+</div>
 
 🎓 **BTech CSE Student** | 💻 **Aspiring Full-Stack Developer** | 🚀 **Tech Explorer**  
 
@@ -39,5 +41,5 @@
 ---
 
 ## 🌍 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanislam20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanislam20)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanrohit2004@gmail.com)
