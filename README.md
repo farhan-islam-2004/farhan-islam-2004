@@ -26,20 +26,43 @@
 
 <div align="center">
 
+### 🧠 Languages
 <table>
-  <tr><td><strong>C</strong></td><td><img src="https://skillicons.dev/icons?i=c" width="40"/></td></tr>
-  <tr><td><strong>C++</strong></td><td><img src="https://skillicons.dev/icons?i=cpp" width="40"/></td></tr>
-  <tr><td><strong>Java</strong></td><td><img src="https://skillicons.dev/icons?i=java" width="40"/></td></tr>
-  <tr><td><strong>Python</strong></td><td><img src="https://skillicons.dev/icons?i=python" width="40"/></td></tr>
-  <tr><td><strong>JavaScript</strong></td><td><img src="https://skillicons.dev/icons?i=js" width="40"/></td></tr>
-  <tr><td><strong>HTML5</strong></td><td><img src="https://skillicons.dev/icons?i=html" width="40"/></td></tr>
-  <tr><td><strong>CSS3</strong></td><td><img src="https://skillicons.dev/icons?i=css" width="40"/></td></tr>
-  <tr><td><strong>React</strong></td><td><img src="https://skillicons.dev/icons?i=react" width="40"/></td></tr>
-  <tr><td><strong>Node.js</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></td></tr>
-  <tr><td><strong>MongoDB</strong></td><td><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></td></tr>
-  <tr><td><strong>MySQL</strong></td><td><img src="https://skillicons.dev/icons?i=mysql" width="40"/></td></tr>
-  <tr><td><strong>Git</strong></td><td><img src="https://skillicons.dev/icons?i=git" width="40"/></td></tr>
-  <tr><td><strong>GitHub</strong></td><td><img src="https://skillicons.dev/icons?i=github" width="40"/></td></tr>
+  <tr>
+    <td><strong>C</strong><br><img src="https://skillicons.dev/icons?i=c" width="40"/></td>
+    <td><strong>C++</strong><br><img src="https://skillicons.dev/icons?i=cpp" width="40"/></td>
+    <td><strong>Java</strong><br><img src="https://skillicons.dev/icons?i=java" width="40"/></td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong><br><img src="https://skillicons.dev/icons?i=python" width="40"/></td>
+    <td><strong>JavaScript</strong><br><img src="https://skillicons.dev/icons?i=js" width="40"/></td>
+  </tr>
+</table>
+
+### 🎨 Frontend
+<table>
+  <tr>
+    <td><strong>HTML5</strong><br><img src="https://skillicons.dev/icons?i=html" width="40"/></td>
+    <td><strong>CSS3</strong><br><img src="https://skillicons.dev/icons?i=css" width="40"/></td>
+    <td><strong>React</strong><br><img src="https://skillicons.dev/icons?i=react" width="40"/></td>
+  </tr>
+</table>
+
+### 🔧 Backend
+<table>
+  <tr>
+    <td><strong>Node.js</strong><br><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></td>
+    <td><strong>MongoDB</strong><br><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></td>
+    <td><strong>MySQL</strong><br><img src="https://skillicons.dev/icons?i=mysql" width="40"/></td>
+  </tr>
+</table>
+
+### ⚙️ Tools
+<table>
+  <tr>
+    <td><strong>Git</strong><br><img src="https://skillicons.dev/icons?i=git" width="40"/></td>
+    <td><strong>GitHub</strong><br><img src="https://skillicons.dev/icons?i=github" width="40"/></td>
+  </tr>
 </table>
 
 </div>
