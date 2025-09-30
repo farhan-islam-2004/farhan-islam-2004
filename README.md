@@ -1,4 +1,10 @@
-# Hi there, I'm Farhan 👋  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF4C8B&color2=9A4DFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Farhan+👋;A+Passionate+Full+Stack+Developer+🚀;BTech+CSE+Student+%7C+Tech+Explorer+💻;Dreaming+to+Build+My+Own+Startup+✨" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4C8B&height=120&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Boy GIF" width="400"/>
@@ -35,11 +41,23 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhan-islam-2004&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-islam-2004&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
 
 ---
 
 ## 🌍 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanislam20)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanrohit2004@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/farhanislam20">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:farhanrohit2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*  
