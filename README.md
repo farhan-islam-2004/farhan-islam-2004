@@ -70,15 +70,6 @@
 
 ---
 
-## 📊 GitHub Highlights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-islam-2004&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🌍 Connect With Me  
 
 <p align="center">
