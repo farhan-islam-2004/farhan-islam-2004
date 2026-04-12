@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there 👋, I'm <span style="color:#FF4C8B">Farhan Islam</span>
+  Hey there 👋, I'm <span style="color:#FF4C8B">Farhan Islam Sekh</span>
 </h1>
 
 <p align="center">
