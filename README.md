@@ -45,33 +45,52 @@ I like going beyond tutorials — I enjoy taking an idea, designing the architec
 
 ## 🚀 What I'm Building
 
-### 🌾 KisanSetu — SIH 2026
-
-**Multilingual Voice-First Agri-Advisory & Market Intelligence Agent**
-
-A farmer-focused platform designed around **voice interaction, multilingual assistance, market intelligence, weather advisories, and decision support**.
-
-**Built with:** Python · FastAPI · React · JWT · Open-Meteo · Market Data · Voice AI
-
-<a href="https://github.com/farhan-islam-2004/KisanSetu">
-  <img src="https://img.shields.io/badge/View%20KisanSetu-111827?style=for-the-badge&logo=github&logoColor=white" alt="KisanSetu repository"/>
-</a>
-
 ### 🧮 MathVerse AI
 
-An AI-powered mathematical problem-solving platform combining **step-by-step mathematical reasoning, solver engines, a modern React interface, and AI models**.
+**An AI-powered mathematical problem-solving platform designed to make solving, understanding, and practicing mathematics more interactive.**
 
-**Built with:** Python · FastAPI · SymPy · React · Vite · AI/LLMs
+MathVerse AI combines a **deterministic mathematical solver engine** with AI-assisted reasoning and a modern full-stack interface. The goal is not only to produce an answer, but to help users understand **how and why** a problem is solved.
 
-### ✍️ AI Text Assistant
+#### ✨ Core Features
 
-A full-stack NLP platform for **grammar correction, spell checking, paraphrasing, humanization, summarization, and translation**.
+- 🧮 **Math Keyboard** — an interactive input experience for mathematical expressions
+- 🔐 **User Accounts** — authentication and personalized user experience
+- 🧾 **Calculation History** — previous calculations can be stored and revisited
+- 📐 **Solver Engine** — dedicated solving workflows for mathematical problems
+- 🪜 **Step-by-Step Solutions** — detailed derivations instead of answer-only output
+- 🧠 **Reasoning Engine** — structured AI-assisted reasoning across different learning modes
+- 📚 **Practice & Concepts** — designed to support learning, practice, and mathematical understanding
+- 📱 **Modern Responsive UI** — dark glassmorphism interface with animated interactions
 
-**Built with:** Python · Flask · React · TypeScript · Transformers · PyTorch
+#### 🧠 MathVerse Architecture
 
-<a href="https://github.com/farhan-islam-2004/Grammar-And-Spell-Checker-Full_Stack_Website">
-  <img src="https://img.shields.io/badge/View%20AI%20Text%20Assistant-111827?style=for-the-badge&logo=github&logoColor=white" alt="AI Text Assistant repository"/>
-</a>
+The platform is organized around specialized **Verse-based reasoning experiences**:
+
+**MathVerse · PhysicsVerse · ChemVerse · AccountVerse · ExamVerse · PracticeVerse · ConceptVerse · ScanVerse**
+
+At the core, the mathematical solving layer uses **SymPy** for symbolic computation, with dedicated solver services and standardized schemas. This keeps mathematical operations structured and reliable while AI models can be used for reasoning, explanations, and intelligent interaction.
+
+#### ⚙️ Tech Stack
+
+**Backend:** Python · FastAPI · Pydantic · SymPy
+
+**Frontend:** React · Vite · TypeScript · Axios · Framer Motion · Tailwind CSS
+
+**AI:** LLM integration · AI reasoning · structured mathematical explanations
+
+#### 🏗️ Engineering Highlights
+
+- **FastAPI + Pydantic** backend architecture
+- Dedicated **linear and quadratic solver services**
+- **SymPy** symbolic mathematics engine
+- Standardized **JSON schemas** between frontend and backend
+- **Axios** service layer for API communication
+- React/Vite frontend with **Framer Motion**
+- Dark **glassmorphism + glow** design system
+- Modular API routes, dependencies, and solver schemas
+- AI/LLM integration for intelligent explanations and reasoning
+
+> **Vision:** Build a complete AI-powered learning companion where mathematics is not just solved — it is explained, practiced, and understood.
 
 ---
 
