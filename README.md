@@ -193,28 +193,32 @@ These experiences have reinforced one idea:
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="./assets/github-analytics.svg" width="100%" alt="Farhan Islam Sekh GitHub analytics"/>
+<img src="./assets/github-analytics.svg" width="100%" alt="Farhan Islam Sekh GitHub analytics dashboard"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark&custom_title=Farhan's%20GitHub%20Stats" alt="Farhan's GitHub statistics"/>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark&custom_title=GitHub%20Overview" alt="GitHub overview"/>
+
 </td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-islam-2004&layout=compact&hide_border=true&langs_count=8&theme=github_dark&custom_title=Most%20Used%20Languages" alt="Farhan's most used languages"/>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-islam-2004&layout=compact&hide_border=true&langs_count=8&theme=github_dark&custom_title=Languages%20I%20Build%20With" alt="Most used languages"/>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=farhan-islam-2004&hide_border=true&theme=github-dark-blue&date_format=M%20j%2C%20Y" alt="Farhan's GitHub contribution streak"/>
+<sub>📌 Live repository statistics are powered by GitHub data. The dashboard above highlights my engineering focus rather than vanity metrics.</sub>
 
 </div>
 
