@@ -110,17 +110,46 @@ At the core, the mathematical solving layer uses **SymPy** for symbolic computat
 
 ## 🏆 Journey & Highlights
 
-My journey has been less about collecting titles and more about **building, experimenting, and finding opportunities to turn what I learn into something meaningful**.
+<div align="center">
 
-It started with a curiosity for software development and gradually became a deeper interest in **AI, backend engineering, and full-stack product development**. Along the way, I had the opportunity to gain hands-on experience through the **Samsung Innovation Campus** and my work as a **Python developer at BroskiesHub**.
+<table>
+<tr>
+<th>🚀 Chapter</th>
+<th>What It Added to My Journey</th>
+</tr>
 
-That experience pushed me beyond simply writing code. I also explored the product and business side of technology through my **co-founder / developer-marketing experience at Int.kart**, learning how technical ideas connect with users, products, and real-world execution.
+<tr>
+<td><strong>💼 Samsung Innovation Campus</strong></td>
+<td>One of my early opportunities to work in a structured technology environment and strengthen my foundation beyond classroom learning.</td>
+</tr>
 
-My work and experimentation eventually led to recognition as one of **India's Top 1000 Innovators 2025**, while an abstract I worked on was also accepted for a **Springer Nature edited volume**.
+<tr>
+<td><strong>🐍 BroskiesHub</strong></td>
+<td>Hands-on experience as a <strong>Python Developer Intern</strong>, turning programming knowledge into practical development work.</td>
+</tr>
 
-Each experience added another layer to the journey — from writing code, to building products, to understanding users, to thinking about technology as something that can create real impact.
+<tr>
+<td><strong>🌐 Int.kart</strong></td>
+<td>Stepped beyond pure development into a <strong>co-founder / developer-marketing</strong> role, learning how technology, products, and users connect.</td>
+</tr>
 
-**The goal has remained the same: keep learning, keep building, and turn every opportunity into the next step forward.**
+<tr>
+<td><strong>🌟 India’s Top 1000 Innovators 2025</strong></td>
+<td>A meaningful recognition of my innovation journey and the ideas I was exploring while building and experimenting with technology.</td>
+</tr>
+
+<tr>
+<td><strong>📚 Springer Nature</strong></td>
+<td>An abstract I worked on was accepted for a <strong>Springer Nature edited volume</strong>, giving me an opportunity to take my technical work into an academic and research-oriented space.</td>
+</tr>
+
+</table>
+
+<br/>
+
+<em>Each chapter taught me something different — how to build, how to work with people, how to think about products, and how to turn ideas into meaningful technology.</em>
+
+</div>
 
 ---
 
