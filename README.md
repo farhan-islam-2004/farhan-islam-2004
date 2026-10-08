@@ -218,8 +218,6 @@ These experiences have reinforced one idea:
 
 <br/>
 
-<sub>📌 Live repository statistics are powered by GitHub data. The dashboard above highlights my engineering focus rather than vanity metrics.</sub>
-
 </div>
 
 ---
