@@ -87,16 +87,13 @@
  <rect x="506" width="110" height="38" fill="#4285F4"/><text x="561" y="24" text-anchor="middle" class="badgeText">AI STUDIO</text>
  <rect x="624" width="114" height="38" fill="#64748B"/><text x="681" y="24" text-anchor="middle" class="badgeText">HUSTLE</text>
 </g>
-<!-- Build and mobile -->
-<text x="28" y="924" class="heading">Deployment, Mobile &amp; Design</text>
+<!-- Mobile -->
+<text x="28" y="924" class="heading">Mobile Development</text>
 <g transform="translate(28 947)">
- <rect width="122" height="40" fill="#000000"/><text x="61" y="25" text-anchor="middle" class="badgeText">VERCEL</text>
- <rect x="130" width="128" height="40" fill="#00C7B7"/><text x="194" y="25" text-anchor="middle" class="badgeText">NETLIFY</text>
- <rect x="266" width="116" height="40" fill="#4630EB"/><text x="324" y="25" text-anchor="middle" class="badgeText">EXPO</text>
- <rect x="390" width="126" height="40" fill="#F24E1E"/><text x="453" y="25" text-anchor="middle" class="badgeText">FIGMA</text>
- <rect x="524" width="120" height="40" fill="#00C4CC"/><text x="584" y="25" text-anchor="middle" class="badgeText">CANVA</text>
+ <rect width="116" height="40" fill="#4630EB"/><text x="58" y="25" text-anchor="middle" class="badgeText">EXPO</text>
+ <rect x="124" width="126" height="40" fill="#20232A"/><text x="187" y="25" text-anchor="middle" class="badgeText">REACT NATIVE</text>
 </g>
-<text x="28" y="1032" class="note">Design &amp; prototyping · deployment workflows · mobile app development</text>
+<text x="28" y="1032" class="note">Cross-platform mobile application development</text>
 <line x1="28" y1="1060" x2="1172" y2="1060" stroke="url(#line)" stroke-width="4"/>
-<text x="28" y="1090" class="note">Grouped by use case · Technologies shown reflect tools and languages explored across projects.</text>
+<text x="28" y="1090" class="note">Grouped by use case · Technologies reflect tools and languages explored across projects.</text>
 </svg>
