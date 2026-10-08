@@ -197,19 +197,36 @@ These experiences have reinforced one idea:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Farhan's GitHub statistics"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-islam-2004&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Farhan's top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&custom_title=Farhan's%20GitHub%20Stats" alt="Farhan's GitHub statistics"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-islam-2004&layout=compact&hide_border=true&langs_count=8&theme=transparent&custom_title=Most%20Used%20Languages" alt="Farhan's most used languages"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=farhan-islam-2004&hide_border=true&theme=transparent&date_format=M%20j%2C%20Y" alt="Farhan's GitHub contribution streak"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=farhan-islam-2004&hide_border=true&theme=transparent" alt="Farhan's GitHub streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=farhan-islam-2004&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub achievements"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=farhan-islam-2004&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan-islam-2004&bg_color=00000000&color=2563eb&line=2563eb&point=111827&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
+
+> **I don't use GitHub just to store code — I use it to document the process of building, learning, and improving.**
 
 ---
 
