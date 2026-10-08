@@ -110,20 +110,17 @@ At the core, the mathematical solving layer uses **SymPy** for symbolic computat
 
 ## 🏆 Journey & Highlights
 
-<div align="center">
+My journey has been less about collecting titles and more about **building, experimenting, and finding opportunities to turn what I learn into something meaningful**.
 
-| 🚀 | Milestone |
-|:---:|---|
-| 🌾 | **Smart India Hackathon 2026** — KisanSetu |
-| 🏁 | **Smart India Hackathon contestant** — 2024 & 2025 |
-| 🌟 | **India's Top 1000 Innovators 2025** |
-| 📚 | Abstract accepted for a **Springer Nature edited volume** |
-| 💼 | **Samsung Innovation Campus** experience |
-| 🐍 | Python development experience at **BroskiesHub** |
-| 🌐 | Co-founder / developer-marketing experience at **Int.kart** |
-| 🎓 | **Brainware University** — BTech Computer Science, 2023–2027 |
+It started with a curiosity for software development and gradually became a deeper interest in **AI, backend engineering, and full-stack product development**. Along the way, I had the opportunity to gain hands-on experience through the **Samsung Innovation Campus** and my work as a **Python developer at BroskiesHub**.
 
-</div>
+That experience pushed me beyond simply writing code. I also explored the product and business side of technology through my **co-founder / developer-marketing experience at Int.kart**, learning how technical ideas connect with users, products, and real-world execution.
+
+My work and experimentation eventually led to recognition as one of **India's Top 1000 Innovators 2025**, while an abstract I worked on was also accepted for a **Springer Nature edited volume**.
+
+Each experience added another layer to the journey — from writing code, to building products, to understanding users, to thinking about technology as something that can create real impact.
+
+**The goal has remained the same: keep learning, keep building, and turn every opportunity into the next step forward.**
 
 ---
 
