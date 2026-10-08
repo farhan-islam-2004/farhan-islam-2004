@@ -233,10 +233,6 @@ Iteration makes it better.**
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Build things worth remembering"/>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/farhanislam20"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 
 <br/><br/>
