@@ -88,67 +88,9 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 
 <div align="center">
 
-### The tools I use to turn ideas into working software
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,vite,html,css,tailwind,fastapi,flask,nodejs,mongodb,mysql,git,github,vscode,postman&perline=10" alt="Programming languages, frontend, backend, databases and developer tools"/>
+<img src="./assets/technology.svg" width="100%" alt="Categorized technology tags for languages, backend, AI and developer workflow"/>
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Languages & Web
-
-**Programming**  
-Python · JavaScript · TypeScript · Java · C · C++
-
-**Frontend**  
-React · Vite · HTML · CSS · Tailwind CSS · Framer Motion
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Data
-
-**Backend**  
-FastAPI · Flask · Node.js · REST APIs · Pydantic · JWT
-
-**Databases**  
-MongoDB · MySQL
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI / ML & Mathematics
-
-LLMs · Generative AI · NLP · Hugging Face · PyTorch · SymPy
-
-Applied in AI-powered features, text processing, and mathematical problem-solving workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Developer Workflow
-
-Git · GitHub · VS Code · Postman · Axios
-
-Version control, API testing, frontend–backend integration, and project iteration.
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>How these skills come together</strong></summary>
-
-- **MathVerse AI:** FastAPI, SymPy, React, Vite, TypeScript, Axios, and AI/LLM integration.
-- **AI Text Assistant:** Python, Flask, React, TypeScript, and NLP/Transformer tooling.
-- **KisanSetu:** FastAPI, React, JWT authentication, weather integration, market intelligence, and voice-first features.
-
-</details>
 
 ---
 
