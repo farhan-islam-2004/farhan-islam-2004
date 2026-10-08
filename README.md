@@ -199,17 +199,7 @@ Git · GitHub · VS Code · API Integration · Testing · Security · Documentat
 
 <div align="center">
 
-### 📊 GitHub
 
-<a href="https://github.com/farhan-islam-2004?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20my%20work-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
-</a>
-
-<br/><br/>
-
-<sub>This profile is intentionally focused on the work: projects, engineering, learning, and the journey behind them.</sub>
-
-</div>
 
 ---
 
@@ -230,12 +220,6 @@ Iteration makes it better.**
 </div>
 
 ---
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/farhanislam20"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-
-<br/><br/>
 
 <sub>© Farhan Islam Sekh · Built with curiosity, code, and a lot of iteration.</sub>
 
