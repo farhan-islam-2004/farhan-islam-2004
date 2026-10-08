@@ -86,100 +86,82 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 
 ---
 
-## 🏆 Journey & Highlights
+## 🌱 Journey, Experience & Learning
 
-I have explored technology from several angles — development, product building, innovation, and research.
+My path has grown across **professional experience, product thinking, innovation, research, and continuous learning**.
+
+### 💼 Professional Experience
 
 <table>
 <tr>
-<th align="left">Chapter</th>
 <th align="left">Experience</th>
-<th align="left">What it taught me</th>
+<th align="left">Role / Exposure</th>
+<th align="left">What I Gained</th>
 </tr>
 <tr>
-<td>💼 <strong>Samsung Innovation Campus</strong></td>
-<td>Technology-focused learning and hands-on exposure</td>
-<td>Strong foundations and practical problem solving.</td>
+<td><strong>Samsung Innovation Campus</strong></td>
+<td>Technology-focused learning & hands-on exposure</td>
+<td>Stronger technical foundations and practical problem-solving.</td>
 </tr>
 <tr>
-<td>🐍 <strong>BroskiesHub</strong></td>
+<td><strong>BroskiesHub</strong></td>
 <td>Python Developer Intern</td>
-<td>Turning programming concepts into practical development work.</td>
+<td>Applied Python beyond coursework through practical development work.</td>
 </tr>
 <tr>
-<td>🌐 <strong>Int.kart</strong></td>
+<td><strong>Int.kart</strong></td>
 <td>Co-founder / Developer-Marketing</td>
-<td>How technology, products, users, communication, and execution connect.</td>
+<td>Connected software development with products, users, communication, and execution.</td>
+</tr>
+</table>
+
+### 🏆 Innovation & Recognition
+
+<table>
+<tr>
+<th align="left">Recognition</th>
+<th align="left">Why It Matters</th>
 </tr>
 <tr>
 <td>🌟 <strong>India's Top 1000 Innovators 2025</strong></td>
-<td>Innovation recognition</td>
-<td>Reinforced my interest in turning technical ideas into useful solutions.</td>
+<td>Recognition of my work and interest in turning technical ideas into useful solutions.</td>
 </tr>
 <tr>
 <td>📚 <strong>Springer Nature</strong></td>
-<td>Abstract accepted for an edited volume</td>
-<td>Experience connecting technical work with research and communication.</td>
+<td>Abstract accepted for an edited volume, giving my technical work a research and academic dimension.</td>
+</tr>
+</table>
+
+### 🧠 AI, Technology & Continuous Learning
+
+<table>
+<tr>
+<th align="left">Program / Experience</th>
+<th align="left">Areas Explored</th>
+</tr>
+<tr>
+<td>🤖 <strong>GEN AI Camp — AlgoUniversity</strong></td>
+<td>Generative AI · Multimodal AI · Embeddings · Vector Search · AI Product Design</td>
+</tr>
+<tr>
+<td>🌐 <strong>Google I/O Extended Kolkata 2026</strong></td>
+<td>AI-assisted SRE · Agentic AI · Context Engineering</td>
+</tr>
+<tr>
+<td>🧠 <strong>Build with AI Bootcamp — Google for Developers</strong></td>
+<td>Google AI Studio · Gemini · AI Agents · Deployable AI applications</td>
+</tr>
+<tr>
+<td>🔐 <strong>CyberOps Associate — Cisco Networking Academy</strong></td>
+<td>Cybersecurity foundations · Operational thinking</td>
 </tr>
 </table>
 
 <div align="center">
 
+<sub><strong>Experience → Experimentation → Recognition → Deeper Learning</strong></sub>
+
 </div>
-
----
-
-## 🧰 Technology
-
-<img src="./assets/technology.svg" width="100%" alt="Farhan's technology stack"/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**💻 Languages**
-
-Python · JavaScript · TypeScript · Java · C · C++
-
-**⚙️ Backend**
-
-FastAPI · Flask · Node.js · REST APIs · JWT · Pydantic
-
-**🗄️ Data**
-
-MongoDB · MySQL
-
-</td>
-<td width="50%" valign="top">
-
-**⚛️ Frontend**
-
-React · Vite · Tailwind CSS · Framer Motion
-
-**🤖 AI / ML**
-
-LLMs · Generative AI · NLP · RAG · Hugging Face · PyTorch · SymPy
-
-**🛠️ Engineering**
-
-Git · GitHub · VS Code · API Integration · Testing · Security · Documentation
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌍 Learning Beyond Code
-
-2026 has been a year of deliberately expanding from **writing software** to understanding how modern intelligent systems are designed and shipped.
-
-| Experience | Focus |
-|:--|:--|
-| 🤖 **GEN AI Camp — AlgoUniversity** | Generative AI · Multimodal AI · Embeddings · Vector Search · AI Product Design |
-| 🌐 **Google I/O Extended Kolkata 2026** | AI-assisted SRE · Agentic AI · Context Engineering |
-| 🧠 **Build with AI Bootcamp — Google for Developers** | Google AI Studio · Gemini · AI Agents · Deployable AI applications |
-| 🔐 **CyberOps Associate — Cisco Networking Academy** | Cybersecurity foundations and operational thinking |
 
 ---
 
