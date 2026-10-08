@@ -193,30 +193,31 @@ These experiences have reinforced one idea:
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Analytics
 
 <div align="center">
+
+<img src="./assets/github-analytics.svg" width="100%" alt="Farhan Islam Sekh GitHub analytics"/>
+
+<br/><br/>
 
 <table>
 <tr>
 <td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&custom_title=Farhan's%20GitHub%20Stats" alt="Farhan's GitHub statistics"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark&custom_title=Farhan's%20GitHub%20Stats" alt="Farhan's GitHub statistics"/>
 </td>
 <td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-islam-2004&layout=compact&hide_border=true&langs_count=8&theme=transparent&custom_title=Most%20Used%20Languages" alt="Farhan's most used languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-islam-2004&layout=compact&hide_border=true&langs_count=8&theme=github_dark&custom_title=Most%20Used%20Languages" alt="Farhan's most used languages"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=farhan-islam-2004&hide_border=true&theme=transparent&date_format=M%20j%2C%20Y" alt="Farhan's GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=farhan-islam-2004&hide_border=true&theme=github-dark-blue&date_format=M%20j%2C%20Y" alt="Farhan's GitHub contribution streak"/>
 
 </div>
+
 ---
 
 ## 💡 My Developer Philosophy
