@@ -1,11 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
-<style>
-.t{fill:#f0f6fc;font:700 20px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.s{fill:#8b949e;font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.v{fill:#c9d1d9;font:600 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
-</style>
-<rect width="1200" height="310" rx="22" fill="#0d1117" stroke="#30363d"/>
-<text x="45" y="48" class="t">Technology I Build With</text><text x="45" y="73" class="s">A practical stack centered around AI, backend systems and modern web products.</text>
-<g transform="translate(45 100)"><rect width="250" height="155" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="36" class="t">🐍 Core</text><text x="22" y="72" class="v">Python · JavaScript · TypeScript</text><text x="22" y="104" class="v">Java · C · C++</text><text x="22" y="136" class="s">Problem solving · DSA · APIs</text></g>
-<g transform="translate(315 100)"><rect width="250" height="155" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="36" class="t">⚙️ Backend</text><text x="22" y="72" class="v">FastAPI · Flask · Node.js</text><text x="22" y="104" class="v">REST · JWT · Pydantic</text><text x="22" y="136" class="s">MongoDB · MySQL</text></g>
-<g transform="translate(585 100)"><rect width="250" height="155" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="36" class="t">⚛️ Frontend</text><text x="22" y="72" class="v">React · Vite · TypeScript</text><text x="22" y="104" class="v">Tailwind · Framer Motion</text><text x="22" y="136" class="s">Responsive product interfaces</text></g>
-<g transform="translate(855 100)"><rect width="300" height="155" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="36" class="t">🤖 AI / ML</text><text x="22" y="72" class="v">LLMs · GenAI · NLP · RAG</text><text x="22" y="104" class="v">Hugging Face · PyTorch</text><text x="22" y="136" class="s">SymPy · intelligent applications</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610">
+<defs>
+ <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+ <style>
+ .bg{fill:#0d1117}.panel{fill:#161b22;stroke:#30363d;stroke-width:1.2}.heading{fill:#f0f6fc;font:700 21px Arial,sans-serif}.sub{fill:#8b949e;font:500 13px Arial,sans-serif}.tag{fill:#1f2937;stroke:#334155;stroke-width:1}.tagtext{fill:#dbeafe;font:600 14px Arial,sans-serif}.job{fill:#c9d1d9;font:500 14px Arial,sans-serif}.accent{fill:#58a6ff;font:700 12px Arial,sans-serif}
+ </style>
+</defs>
+<rect class="bg" width="1200" height="610" rx="22"/>
+<text x="34" y="42" class="heading">TECH STACK</text>
+<text x="34" y="65" class="sub">Grouped by engineering role and practical use</text>
+<rect x="32" y="88" width="556" height="225" rx="16" class="panel"/>
+<text x="56" y="123" class="heading">01 · Languages &amp; Frontend</text>
+<text x="56" y="147" class="sub">Application logic and user interfaces</text>
+<g>
+<rect x="56" y="166" width="83" height="30" rx="8" class="tag"/><text x="97" y="185" text-anchor="middle" class="tagtext">Python</text>
+<rect x="147" y="166" width="115" height="30" rx="8" class="tag"/><text x="204" y="185" text-anchor="middle" class="tagtext">JavaScript</text>
+<rect x="270" y="166" width="111" height="30" rx="8" class="tag"/><text x="325" y="185" text-anchor="middle" class="tagtext">TypeScript</text>
+<rect x="389" y="166" width="64" height="30" rx="8" class="tag"/><text x="421" y="185" text-anchor="middle" class="tagtext">Java</text>
+<rect x="461" y="166" width="42" height="30" rx="8" class="tag"/><text x="482" y="185" text-anchor="middle" class="tagtext">C</text>
+<rect x="511" y="166" width="54" height="30" rx="8" class="tag"/><text x="538" y="185" text-anchor="middle" class="tagtext">C++</text>
+<rect x="56" y="207" width="74" height="30" rx="8" class="tag"/><text x="93" y="226" text-anchor="middle" class="tagtext">React</text>
+<rect x="138" y="207" width="68" height="30" rx="8" class="tag"/><text x="172" y="226" text-anchor="middle" class="tagtext">Vite</text>
+<rect x="214" y="207" width="65" height="30" rx="8" class="tag"/><text x="246" y="226" text-anchor="middle" class="tagtext">HTML</text>
+<rect x="287" y="207" width="56" height="30" rx="8" class="tag"/><text x="315" y="226" text-anchor="middle" class="tagtext">CSS</text>
+<rect x="351" y="207" width="123" height="30" rx="8" class="tag"/><text x="412" y="226" text-anchor="middle" class="tagtext">Tailwind CSS</text>
+<rect x="56" y="249" width="143" height="30" rx="8" class="tag"/><text x="127" y="268" text-anchor="middle" class="tagtext">Framer Motion</text>
+<text x="215" y="268" class="sub">UI · Interaction · Styling</text>
+</g>
+<rect x="612" y="88" width="556" height="225" rx="16" class="panel"/>
+<text x="636" y="123" class="heading">02 · Backend &amp; Data</text>
+<text x="636" y="147" class="sub">Services, APIs, authentication and persistence</text>
+<g>
+<rect x="636" y="166" width="86" height="30" rx="8" class="tag"/><text x="679" y="185" text-anchor="middle" class="tagtext">FastAPI</text>
+<rect x="730" y="166" width="75" height="30" rx="8" class="tag"/><text x="767" y="185" text-anchor="middle" class="tagtext">Flask</text>
+<rect x="813" y="166" width="96" height="30" rx="8" class="tag"/><text x="861" y="185" text-anchor="middle" class="tagtext">Node.js</text>
+<rect x="917" y="166" width="110" height="30" rx="8" class="tag"/><text x="972" y="185" text-anchor="middle" class="tagtext">REST APIs</text>
+<rect x="1035" y="166" width="102" height="30" rx="8" class="tag"/><text x="1086" y="185" text-anchor="middle" class="tagtext">Pydantic</text>
+<rect x="636" y="207" width="55" height="30" rx="8" class="tag"/><text x="663" y="226" text-anchor="middle" class="tagtext">JWT</text>
+<rect x="699" y="207" width="112" height="30" rx="8" class="tag"/><text x="755" y="226" text-anchor="middle" class="tagtext">MongoDB</text>
+<rect x="819" y="207" width="83" height="30" rx="8" class="tag"/><text x="860" y="226" text-anchor="middle" class="tagtext">MySQL</text>
+<text x="636" y="270" class="sub">API design · Auth · Data modelling · Integration</text>
+</g>
+<rect x="32" y="333" width="556" height="225" rx="16" class="panel"/>
+<text x="56" y="368" class="heading">03 · AI / ML &amp; Mathematics</text>
+<text x="56" y="392" class="sub">Intelligent features and symbolic computation</text>
+<g>
+<rect x="56" y="411" width="58" height="30" rx="8" class="tag"/><text x="85" y="430" text-anchor="middle" class="tagtext">LLMs</text>
+<rect x="122" y="411" width="120" height="30" rx="8" class="tag"/><text x="182" y="430" text-anchor="middle" class="tagtext">Generative AI</text>
+<rect x="250" y="411" width="57" height="30" rx="8" class="tag"/><text x="278" y="430" text-anchor="middle" class="tagtext">NLP</text>
+<rect x="315" y="411" width="126" height="30" rx="8" class="tag"/><text x="378" y="430" text-anchor="middle" class="tagtext">Hugging Face</text>
+<rect x="449" y="411" width="88" height="30" rx="8" class="tag"/><text x="493" y="430" text-anchor="middle" class="tagtext">PyTorch</text>
+<rect x="56" y="452" width="76" height="30" rx="8" class="tag"/><text x="94" y="471" text-anchor="middle" class="tagtext">SymPy</text>
+<text x="56" y="516" class="job">Applied to text processing, AI features, and</text>
+<text x="56" y="538" class="job">mathematical problem-solving workflows.</text>
+</g>
+<rect x="612" y="333" width="556" height="225" rx="16" class="panel"/>
+<text x="636" y="368" class="heading">04 · Developer Workflow</text>
+<text x="636" y="392" class="sub">Tools used to build, test and maintain projects</text>
+<g>
+<rect x="636" y="411" width="56" height="30" rx="8" class="tag"/><text x="664" y="430" text-anchor="middle" class="tagtext">Git</text>
+<rect x="700" y="411" width="78" height="30" rx="8" class="tag"/><text x="739" y="430" text-anchor="middle" class="tagtext">GitHub</text>
+<rect x="786" y="411" width="78" height="30" rx="8" class="tag"/><text x="825" y="430" text-anchor="middle" class="tagtext">VS Code</text>
+<rect x="872" y="411" width="88" height="30" rx="8" class="tag"/><text x="916" y="430" text-anchor="middle" class="tagtext">Postman</text>
+<rect x="968" y="411" width="70" height="30" rx="8" class="tag"/><text x="1003" y="430" text-anchor="middle" class="tagtext">Axios</text>
+<text x="636" y="482" class="job">Version control · API testing · Frontend/backend</text>
+<text x="636" y="504" class="job">integration · Iterative development</text>
+</g>
+<rect x="32" y="578" width="1136" height="4" rx="2" fill="url(#accent)"/>
 </svg>
