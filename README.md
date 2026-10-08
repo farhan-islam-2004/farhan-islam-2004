@@ -216,18 +216,7 @@ These experiences have reinforced one idea:
 
 <img src="https://streak-stats.demolab.com?user=farhan-islam-2004&hide_border=true&theme=transparent&date_format=M%20j%2C%20Y" alt="Farhan's GitHub contribution streak"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=farhan-islam-2004&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub achievements"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan-islam-2004&bg_color=00000000&color=2563eb&line=2563eb&point=111827&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
 </div>
-
-> **I don't use GitHub just to store code — I use it to document the process of building, learning, and improving.**
-
 ---
 
 ## 💡 My Developer Philosophy
