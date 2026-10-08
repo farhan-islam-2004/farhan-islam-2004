@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<style>
+.t{fill:#f0f6fc;font:700 20px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.s{fill:#8b949e;font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.v{fill:#c9d1d9;font:600 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+</style>
+<rect width="1200" height="310" rx="22" fill="#0d1117" stroke="#30363d"/>
+<text x="45" y="48" class="t">Technology I Build With</text><text x="45" y="73" class="s">A practical stack centered around AI, backend systems and modern web products.</text>
+<g transform="translate(45 100)"><rect width="250" height="155" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="36" class="t">🐍 Core</text><text x="22" y="72" class="v">Python · JavaScript · TypeScript</text><text x="22" y="104" class="v">Java · C · C++</text><text x="22" y="136" class="s">Problem solving · DSA · APIs</text></g>
+<g transform="translate(315 100)"><rect width="250" height="155" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="36" class="t">⚙️ Backend</text><text x="22" y="72" class="v">FastAPI · Flask · Node.js</text><text x="22" y="104" class="v">REST · JWT · Pydantic</text><text x="22" y="136" class="s">MongoDB · MySQL</text></g>
+<g transform="translate(585 100)"><rect width="250" height="155" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="36" class="t">⚛️ Frontend</text><text x="22" y="72" class="v">React · Vite · TypeScript</text><text x="22" y="104" class="v">Tailwind · Framer Motion</text><text x="22" y="136" class="s">Responsive product interfaces</text></g>
+<g transform="translate(855 100)"><rect width="300" height="155" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="36" class="t">🤖 AI / ML</text><text x="22" y="72" class="v">LLMs · GenAI · NLP · RAG</text><text x="22" y="104" class="v">Hugging Face · PyTorch</text><text x="22" y="136" class="s">SymPy · intelligent applications</text></g>
+</svg>
