@@ -59,8 +59,6 @@ A working interface matters just as much as a working backend.
 </tr>
 </table>
 
-> **Understand deeply. Build deliberately. Make it useful.**
-
 ---
 
 ## 🚀 What I'm Building
@@ -83,8 +81,6 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 | 🧠 **AI Reasoning** | Intelligent explanations and reasoning workflows |
 | 📚 **Practice & Concepts** | Designed for learning, practice, and understanding |
 | 📱 **Modern UI** | Responsive dark glassmorphism interface with animated interactions |
-
-**Built with:** Python · FastAPI · Pydantic · SymPy · React · Vite · TypeScript · Axios · Framer Motion · Tailwind CSS · LLMs
 
 ---
 
@@ -128,8 +124,6 @@ I have explored technology from several angles — development, product building
 </table>
 
 <div align="center">
-
-**Learn → Experiment → Build → Reflect → Improve**
 
 </div>
 
@@ -187,15 +181,11 @@ Git · GitHub · VS Code · API Integration · Testing · Security · Documentat
 | 🧠 **Build with AI Bootcamp — Google for Developers** | Google AI Studio · Gemini · AI Agents · Deployable AI applications |
 | 🔐 **CyberOps Associate — Cisco Networking Academy** | Cybersecurity foundations and operational thinking |
 
-> **Don't just learn technology. Build with it.**
-
 ---
 
 ## 🎯 What I'm Focused On
 
 <div align="center">
-
-**PYTHON & DSA** → **BACKEND ENGINEERING** → **AI ENGINEERING** → **FULL-STACK PRODUCTS** → **PRODUCTION READINESS**
 
 </div>
 
