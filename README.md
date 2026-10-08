@@ -24,18 +24,64 @@
 
 ## 👨‍💻 Who I Am
 
-I'm a **final-year BTech Computer Science student at Brainware University** focused on **AI engineering, backend development, and full-stack product development**.
+<div align="center">
 
-I like going beyond tutorials — I enjoy taking an idea, designing the architecture, building the application, integrating AI/APIs, testing it, and turning it into something people can actually use.
+### I build software where **AI meets real-world problems.**
 
-- 🐍 **Backend:** Python, FastAPI, Flask, REST APIs, authentication
-- ⚛️ **Frontend:** React, Vite, TypeScript, JavaScript, Tailwind CSS
-- 🗄️ **Data:** MongoDB, MySQL
-- 🤖 **AI/NLP:** LLMs, NLP, GenAI, embeddings, vector search, AI-assisted applications
-- 🧠 **Problem Solving:** Python DSA + LeetCode
-- 🚀 **Long-term:** build products, launch a startup, and create technology with real-world impact
+<p>
+  <strong>AI/ML</strong> &nbsp;•&nbsp;
+  <strong>Generative AI & LLMs</strong> &nbsp;•&nbsp;
+  <strong>Python & Backend</strong> &nbsp;•&nbsp;
+  <strong>Full-Stack Engineering</strong>
+</p>
 
-> **My current mission:** become a strong software engineer who can build intelligent, production-ready products end-to-end.
+</div>
+
+I'm a **final-year Computer Science student and AI/Full-Stack developer** who enjoys turning ideas into working products — from the first architecture decision and API endpoint to the interface a user actually interacts with.
+
+My strongest interest sits at the intersection of **AI/ML, Generative AI, backend engineering, and product development**. I don't want AI to be a feature added at the end; I enjoy designing systems where the intelligence, data, backend, and user experience work together.
+
+### 🧠 How I Think About Building
+
+| | My Approach |
+|:---:|---|
+| **01** | **Start with the problem** — understand what needs to be solved before choosing the technology. |
+| **02** | **Build the intelligence** — use ML, NLP, LLMs, RAG, or deterministic logic where they genuinely add value. |
+| **03** | **Engineer the system** — turn the idea into APIs, services, data flows, authentication, and maintainable code. |
+| **04** | **Make it usable** — connect the backend to a thoughtful React interface and a clear user experience. |
+| **05** | **Keep improving** — test, secure, document, measure, and iterate instead of stopping at a prototype. |
+
+### ⚙️ What I Work With
+
+**AI / ML**  
+Python · Scikit-Learn · PyTorch · NLP · Hugging Face · LLMs · RAG · Generative AI
+
+**Backend & Data**  
+FastAPI · Flask · Node.js · REST APIs · Authentication · MongoDB · MySQL
+
+**Frontend**  
+React · Vite · TypeScript · JavaScript · Tailwind CSS
+
+**Engineering**  
+Git · GitHub · API Integration · Testing · Security · Documentation
+
+### 🚀 What I'm About
+
+I've explored software from different angles — **Python development at BroskiesHub, technology-focused experience through Samsung Innovation Campus, product and developer-marketing work at Int.kart, innovation projects, and research-oriented work**.
+
+Those experiences shaped how I build today: **technical depth matters, but so do product thinking, communication, experimentation, and the ability to ship.**
+
+Whether I'm building **MathVerse AI**, working on AI-powered systems, or solving a DSA problem, the mindset stays the same:
+
+> **Understand deeply. Build deliberately. Make it useful.**
+
+<div align="center">
+
+**AI/ML → Generative AI → Python/Backend → Full-Stack**
+
+<sub>Building intelligent software from idea to implementation.</sub>
+
+</div>
 
 ---
 
