@@ -1,69 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1120" viewBox="0 0 1200 1120">
 <defs>
- <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset=".5" stop-color="#a371f7"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
  <style>
- .bg{fill:#0d1117}.panel{fill:#161b22;stroke:#30363d;stroke-width:1.2}.heading{fill:#f0f6fc;font:700 21px Arial,sans-serif}.sub{fill:#8b949e;font:500 13px Arial,sans-serif}.tag{fill:#1f2937;stroke:#334155;stroke-width:1}.tagtext{fill:#dbeafe;font:600 14px Arial,sans-serif}.job{fill:#c9d1d9;font:500 14px Arial,sans-serif}.accent{fill:#58a6ff;font:700 12px Arial,sans-serif}
+ .bg{fill:#0d1117}.rule{stroke:#30363d;stroke-width:1.4}.title{fill:#f0f6fc;font:700 30px Arial,sans-serif}.heading{fill:#f0f6fc;font:700 21px Arial,sans-serif}.note{fill:#8b949e;font:500 13px Arial,sans-serif}.badgeText{fill:#fff;font:700 13px Arial,sans-serif;letter-spacing:1.5px}.darkText{fill:#161b22;font:700 13px Arial,sans-serif;letter-spacing:1.3px}
  </style>
 </defs>
-<rect class="bg" width="1200" height="610" rx="22"/>
-<text x="34" y="42" class="heading">TECH STACK</text>
-<text x="34" y="65" class="sub">Grouped by engineering role and practical use</text>
-<rect x="32" y="88" width="556" height="225" rx="16" class="panel"/>
-<text x="56" y="123" class="heading">01 · Languages &amp; Frontend</text>
-<text x="56" y="147" class="sub">Application logic and user interfaces</text>
-<g>
-<rect x="56" y="166" width="83" height="30" rx="8" class="tag"/><text x="97" y="185" text-anchor="middle" class="tagtext">Python</text>
-<rect x="147" y="166" width="115" height="30" rx="8" class="tag"/><text x="204" y="185" text-anchor="middle" class="tagtext">JavaScript</text>
-<rect x="270" y="166" width="111" height="30" rx="8" class="tag"/><text x="325" y="185" text-anchor="middle" class="tagtext">TypeScript</text>
-<rect x="389" y="166" width="64" height="30" rx="8" class="tag"/><text x="421" y="185" text-anchor="middle" class="tagtext">Java</text>
-<rect x="461" y="166" width="42" height="30" rx="8" class="tag"/><text x="482" y="185" text-anchor="middle" class="tagtext">C</text>
-<rect x="511" y="166" width="54" height="30" rx="8" class="tag"/><text x="538" y="185" text-anchor="middle" class="tagtext">C++</text>
-<rect x="56" y="207" width="74" height="30" rx="8" class="tag"/><text x="93" y="226" text-anchor="middle" class="tagtext">React</text>
-<rect x="138" y="207" width="68" height="30" rx="8" class="tag"/><text x="172" y="226" text-anchor="middle" class="tagtext">Vite</text>
-<rect x="214" y="207" width="65" height="30" rx="8" class="tag"/><text x="246" y="226" text-anchor="middle" class="tagtext">HTML</text>
-<rect x="287" y="207" width="56" height="30" rx="8" class="tag"/><text x="315" y="226" text-anchor="middle" class="tagtext">CSS</text>
-<rect x="351" y="207" width="123" height="30" rx="8" class="tag"/><text x="412" y="226" text-anchor="middle" class="tagtext">Tailwind CSS</text>
-<rect x="56" y="249" width="143" height="30" rx="8" class="tag"/><text x="127" y="268" text-anchor="middle" class="tagtext">Framer Motion</text>
-<text x="215" y="268" class="sub">UI · Interaction · Styling</text>
+<rect class="bg" width="1200" height="1120" rx="20"/>
+<text x="28" y="58" class="title">⚙ Tech Arsenal</text>
+<line x1="28" y1="82" x2="1172" y2="82" class="rule"/>
+<!-- Languages -->
+<text x="28" y="128" class="heading">Languages</text>
+<g transform="translate(28 151)">
+ <rect width="174" height="40" rx="2" fill="#F7DF1E"/><text x="87" y="25" text-anchor="middle" class="darkText">JS  JAVASCRIPT</text>
+ <rect x="182" width="178" height="40" rx="2" fill="#3178C6"/><text x="271" y="25" text-anchor="middle" class="badgeText">TS  TYPESCRIPT</text>
+ <rect x="368" width="150" height="40" rx="2" fill="#3776AB"/><text x="443" y="25" text-anchor="middle" class="badgeText">PYTHON</text>
+ <rect x="526" width="118" height="40" rx="2" fill="#ED8B00"/><text x="585" y="25" text-anchor="middle" class="badgeText">JAVA</text>
+ <rect x="652" width="76" height="40" rx="2" fill="#00599C"/><text x="690" y="25" text-anchor="middle" class="badgeText">C</text>
+ <rect x="736" width="100" height="40" rx="2" fill="#00599C"/><text x="786" y="25" text-anchor="middle" class="badgeText">C++</text>
+ <rect x="844" width="96" height="40" rx="2" fill="#68217A"/><text x="892" y="25" text-anchor="middle" class="badgeText">C#</text>
+ <rect x="948" width="100" height="40" rx="2" fill="#7F52FF"/><text x="998" y="25" text-anchor="middle" class="badgeText">KOTLIN</text>
 </g>
-<rect x="612" y="88" width="556" height="225" rx="16" class="panel"/>
-<text x="636" y="123" class="heading">02 · Backend &amp; Data</text>
-<text x="636" y="147" class="sub">Services, APIs, authentication and persistence</text>
-<g>
-<rect x="636" y="166" width="86" height="30" rx="8" class="tag"/><text x="679" y="185" text-anchor="middle" class="tagtext">FastAPI</text>
-<rect x="730" y="166" width="75" height="30" rx="8" class="tag"/><text x="767" y="185" text-anchor="middle" class="tagtext">Flask</text>
-<rect x="813" y="166" width="96" height="30" rx="8" class="tag"/><text x="861" y="185" text-anchor="middle" class="tagtext">Node.js</text>
-<rect x="917" y="166" width="110" height="30" rx="8" class="tag"/><text x="972" y="185" text-anchor="middle" class="tagtext">REST APIs</text>
-<rect x="1035" y="166" width="102" height="30" rx="8" class="tag"/><text x="1086" y="185" text-anchor="middle" class="tagtext">Pydantic</text>
-<rect x="636" y="207" width="55" height="30" rx="8" class="tag"/><text x="663" y="226" text-anchor="middle" class="tagtext">JWT</text>
-<rect x="699" y="207" width="112" height="30" rx="8" class="tag"/><text x="755" y="226" text-anchor="middle" class="tagtext">MongoDB</text>
-<rect x="819" y="207" width="83" height="30" rx="8" class="tag"/><text x="860" y="226" text-anchor="middle" class="tagtext">MySQL</text>
-<text x="636" y="270" class="sub">API design · Auth · Data modelling · Integration</text>
+<g transform="translate(28 199)">
+ <rect width="82" height="34" rx="2" fill="#A91401"/><text x="41" y="22" text-anchor="middle" class="badgeText">RUBY</text>
+ <rect x="90" width="70" height="34" rx="2" fill="#276DC3"/><text x="125" y="22" text-anchor="middle" class="badgeText">R</text>
 </g>
-<rect x="32" y="333" width="556" height="225" rx="16" class="panel"/>
-<text x="56" y="368" class="heading">03 · AI / ML &amp; Mathematics</text>
-<text x="56" y="392" class="sub">Intelligent features and symbolic computation</text>
-<g>
-<rect x="56" y="411" width="58" height="30" rx="8" class="tag"/><text x="85" y="430" text-anchor="middle" class="tagtext">LLMs</text>
-<rect x="122" y="411" width="120" height="30" rx="8" class="tag"/><text x="182" y="430" text-anchor="middle" class="tagtext">Generative AI</text>
-<rect x="250" y="411" width="57" height="30" rx="8" class="tag"/><text x="278" y="430" text-anchor="middle" class="tagtext">NLP</text>
-<rect x="315" y="411" width="126" height="30" rx="8" class="tag"/><text x="378" y="430" text-anchor="middle" class="tagtext">Hugging Face</text>
-<rect x="449" y="411" width="88" height="30" rx="8" class="tag"/><text x="493" y="430" text-anchor="middle" class="tagtext">PyTorch</text>
-<rect x="56" y="452" width="76" height="30" rx="8" class="tag"/><text x="94" y="471" text-anchor="middle" class="tagtext">SymPy</text>
-<text x="56" y="516" class="job">Applied to text processing, AI features, and</text>
-<text x="56" y="538" class="job">mathematical problem-solving workflows.</text>
+<!-- Frontend -->
+<text x="28" y="284" class="heading">Frontend &amp; UI</text>
+<g transform="translate(28 307)">
+ <rect width="126" height="40" fill="#20232A"/><text x="63" y="25" text-anchor="middle" class="badgeText">REACT</text>
+ <rect x="134" width="100" height="40" fill="#646CFF"/><text x="184" y="25" text-anchor="middle" class="badgeText">VITE</text>
+ <rect x="242" width="178" height="40" fill="#06B6D4"/><text x="331" y="25" text-anchor="middle" class="badgeText">TAILWIND CSS</text>
+ <rect x="428" width="108" height="40" fill="#E34F26"/><text x="482" y="25" text-anchor="middle" class="badgeText">HTML5</text>
+ <rect x="544" width="88" height="40" fill="#1572B6"/><text x="588" y="25" text-anchor="middle" class="badgeText">CSS3</text>
+ <rect x="640" width="178" height="40" fill="#111111"/><text x="729" y="25" text-anchor="middle" class="badgeText">FRAMER MOTION</text>
+ <rect x="826" width="100" height="40" fill="#000000"/><text x="876" y="25" text-anchor="middle" class="badgeText">EXPO</text>
 </g>
-<rect x="612" y="333" width="556" height="225" rx="16" class="panel"/>
-<text x="636" y="368" class="heading">04 · Developer Workflow</text>
-<text x="636" y="392" class="sub">Tools used to build, test and maintain projects</text>
-<g>
-<rect x="636" y="411" width="56" height="30" rx="8" class="tag"/><text x="664" y="430" text-anchor="middle" class="tagtext">Git</text>
-<rect x="700" y="411" width="78" height="30" rx="8" class="tag"/><text x="739" y="430" text-anchor="middle" class="tagtext">GitHub</text>
-<rect x="786" y="411" width="78" height="30" rx="8" class="tag"/><text x="825" y="430" text-anchor="middle" class="tagtext">VS Code</text>
-<rect x="872" y="411" width="88" height="30" rx="8" class="tag"/><text x="916" y="430" text-anchor="middle" class="tagtext">Postman</text>
-<rect x="968" y="411" width="70" height="30" rx="8" class="tag"/><text x="1003" y="430" text-anchor="middle" class="tagtext">Axios</text>
-<text x="636" y="482" class="job">Version control · API testing · Frontend/backend</text>
-<text x="636" y="504" class="job">integration · Iterative development</text>
+<!-- Backend -->
+<text x="28" y="392" class="heading">Backend &amp; APIs</text>
+<g transform="translate(28 415)">
+ <rect width="142" height="40" fill="#009688"/><text x="71" y="25" text-anchor="middle" class="badgeText">FASTAPI</text>
+ <rect x="150" width="112" height="40" fill="#000000"/><text x="206" y="25" text-anchor="middle" class="badgeText">FLASK</text>
+ <rect x="270" width="142" height="40" fill="#339933"/><text x="341" y="25" text-anchor="middle" class="badgeText">NODE.JS</text>
+ <rect x="420" width="130" height="40" fill="#000000"/><text x="485" y="25" text-anchor="middle" class="badgeText">EXPRESS</text>
+ <rect x="558" width="144" height="40" fill="#E92063"/><text x="630" y="25" text-anchor="middle" class="badgeText">REST APIs</text>
+ <rect x="710" width="142" height="40" fill="#7A3E9D"/><text x="781" y="25" text-anchor="middle" class="badgeText">PYDANTIC</text>
+ <rect x="860" width="92" height="40" fill="#000000"/><text x="906" y="25" text-anchor="middle" class="badgeText">JWT</text>
 </g>
-<rect x="32" y="578" width="1136" height="4" rx="2" fill="url(#accent)"/>
+<!-- Database -->
+<text x="28" y="500" class="heading">Database &amp; Data</text>
+<g transform="translate(28 523)">
+ <rect width="154" height="40" fill="#47A248"/><text x="77" y="25" text-anchor="middle" class="badgeText">MONGODB</text>
+ <rect x="162" width="112" height="40" fill="#4479A1"/><text x="218" y="25" text-anchor="middle" class="badgeText">MYSQL</text>
+ <rect x="284" width="100" height="40" fill="#150458"/><text x="334" y="25" text-anchor="middle" class="badgeText">NUMPY</text>
+ <rect x="394" width="110" height="40" fill="#150458"/><text x="449" y="25" text-anchor="middle" class="badgeText">PANDAS</text>
+ <rect x="514" width="98" height="40" fill="#3776AB"/><text x="563" y="25" text-anchor="middle" class="badgeText">SYMPY</text>
+</g>
+<!-- AI -->
+<text x="28" y="608" class="heading">AI / ML &amp; Generative AI</text>
+<g transform="translate(28 631)">
+ <rect width="148" height="40" fill="#FF6F00"/><text x="74" y="25" text-anchor="middle" class="badgeText">TENSORFLOW</text>
+ <rect x="156" width="130" height="40" fill="#EE4C2C"/><text x="221" y="25" text-anchor="middle" class="badgeText">PYTORCH</text>
+ <rect x="296" width="164" height="40" fill="#F7931E"/><text x="378" y="25" text-anchor="middle" class="badgeText">SCIKIT-LEARN</text>
+ <rect x="470" width="154" height="40" fill="#FFD21E"/><text x="547" y="25" text-anchor="middle" class="darkText">HUGGING FACE</text>
+ <rect x="634" width="100" height="40" fill="#412991"/><text x="684" y="25" text-anchor="middle" class="badgeText">OLLAMA</text>
+ <rect x="744" width="106" height="40" fill="#4285F4"/><text x="797" y="25" text-anchor="middle" class="badgeText">GEMINI</text>
+ <rect x="860" width="112" height="40" fill="#D97757"/><text x="916" y="25" text-anchor="middle" class="badgeText">CLAUDE</text>
+</g>
+<text x="28" y="704" class="note">LLMs · NLP · Generative AI · Mathematical reasoning</text>
+<!-- Tools -->
+<text x="28" y="756" class="heading">Developer Tools &amp; Workflow</text>
+<g transform="translate(28 779)">
+ <rect width="104" height="40" fill="#F05032"/><text x="52" y="25" text-anchor="middle" class="badgeText">GIT</text>
+ <rect x="112" width="124" height="40" fill="#181717"/><text x="174" y="25" text-anchor="middle" class="badgeText">GITHUB</text>
+ <rect x="244" width="126" height="40" fill="#007ACC"/><text x="307" y="25" text-anchor="middle" class="badgeText">VS CODE</text>
+ <rect x="378" width="138" height="40" fill="#FF6C37"/><text x="447" y="25" text-anchor="middle" class="badgeText">POSTMAN</text>
+ <rect x="524" width="94" height="40" fill="#000000"/><text x="571" y="25" text-anchor="middle" class="badgeText">AXIOS</text>
+ <rect x="626" width="112" height="40" fill="#000000"/><text x="682" y="25" text-anchor="middle" class="badgeText">VERCEL</text>
+ <rect x="746" width="128" height="40" fill="#00C7B7"/><text x="810" y="25" text-anchor="middle" class="badgeText">NETLIFY</text>
+ <rect x="882" width="110" height="40" fill="#F24E1E"/><text x="937" y="25" text-anchor="middle" class="badgeText">FIGMA</text>
+</g>
+<g transform="translate(28 827)">
+ <rect width="118" height="38" fill="#00C4CC"/><text x="59" y="24" text-anchor="middle" class="badgeText">CANVA</text>
+ <rect x="126" width="124" height="38" fill="#000000"/><text x="188" y="24" text-anchor="middle" class="badgeText">REPLIT</text>
+ <rect x="258" width="116" height="38" fill="#FF6154"/><text x="316" y="24" text-anchor="middle" class="badgeText">LOVABLE</text>
+ <rect x="382" width="116" height="38" fill="#000000"/><text x="440" y="24" text-anchor="middle" class="badgeText">GITHUB DESKTOP</text>
+ <rect x="506" width="110" height="38" fill="#4285F4"/><text x="561" y="24" text-anchor="middle" class="badgeText">AI STUDIO</text>
+ <rect x="624" width="114" height="38" fill="#64748B"/><text x="681" y="24" text-anchor="middle" class="badgeText">HUSTLE</text>
+</g>
+<!-- Build and mobile -->
+<text x="28" y="924" class="heading">Deployment, Mobile &amp; Design</text>
+<g transform="translate(28 947)">
+ <rect width="122" height="40" fill="#000000"/><text x="61" y="25" text-anchor="middle" class="badgeText">VERCEL</text>
+ <rect x="130" width="128" height="40" fill="#00C7B7"/><text x="194" y="25" text-anchor="middle" class="badgeText">NETLIFY</text>
+ <rect x="266" width="116" height="40" fill="#4630EB"/><text x="324" y="25" text-anchor="middle" class="badgeText">EXPO</text>
+ <rect x="390" width="126" height="40" fill="#F24E1E"/><text x="453" y="25" text-anchor="middle" class="badgeText">FIGMA</text>
+ <rect x="524" width="120" height="40" fill="#00C4CC"/><text x="584" y="25" text-anchor="middle" class="badgeText">CANVA</text>
+</g>
+<text x="28" y="1032" class="note">Design &amp; prototyping · deployment workflows · mobile app development</text>
+<line x1="28" y1="1060" x2="1172" y2="1060" stroke="url(#line)" stroke-width="4"/>
+<text x="28" y="1090" class="note">Grouped by use case · Technologies shown reflect tools and languages explored across projects.</text>
 </svg>
