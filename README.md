@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Farhan%20Islam%20Sekh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&descSize=17" width="100%" alt="Farhan Islam Sekh"/>
 
-<a href="https://github.com/farhan-islam-2004">
-  <img src="https://komarev.com/ghpvc/?username=farhan-islam-2004&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=AI+Engineer+%26+Full-Stack+Developer;Python+%7C+FastAPI+%7C+React+%7C+Node.js;Building+AI-powered+products+that+solve+real+problems;Final-year+BTech+CSE+student+%7C+Builder+%7C+Learner;Future+Founder+%7C+Build.+Grow.+Ship." alt="Animated introduction"/>
@@ -180,8 +176,6 @@ These experiences have reinforced one idea:
 - ⚙️ Deepening backend skills in **APIs, authentication, databases, testing and system design**
 - 🤖 Building practical **AI/GenAI applications**
 - 🧪 Improving **security, testing, documentation and maintainability**
-- 💼 Preparing for **software engineering opportunities**
-- 🚀 Working toward the long-term goal of **building my own technology company**
 
 ---
 
