@@ -84,6 +84,54 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 
 ---
 
+## 🧰 Technology & Hands-On Skills
+
+The tools below reflect the technologies I've **used across projects, coursework, and practical development**. My strongest day-to-day focus is Python, backend development, AI-powered applications, and React-based full-stack work.
+
+<div align="center">
+
+<img src="./assets/technology.svg" width="100%" alt="Technology stack across programming, backend, frontend and AI"/>
+
+</div>
+
+<table>
+<tr>
+<th align="left" width="22%">Area</th>
+<th align="left">Technologies</th>
+<th align="left" width="32%">Where I Apply Them</th>
+</tr>
+<tr>
+<td><strong>🐍 Languages</strong></td>
+<td>Python · JavaScript · TypeScript · Java · C · C++</td>
+<td>Application development, scripting, and problem solving</td>
+</tr>
+<tr>
+<td><strong>⚙️ Backend</strong></td>
+<td>FastAPI · Flask · Node.js · REST APIs · Pydantic · JWT</td>
+<td>API design, server-side logic, authentication, and integrations</td>
+</tr>
+<tr>
+<td><strong>⚛️ Frontend</strong></td>
+<td>React · Vite · HTML · CSS · Tailwind CSS · Framer Motion</td>
+<td>Responsive interfaces and interactive web applications</td>
+</tr>
+<tr>
+<td><strong>🗄️ Databases</strong></td>
+<td>MongoDB · MySQL</td>
+<td>Data modelling, persistence, and application data</td>
+</tr>
+<tr>
+<td><strong>🤖 AI / ML</strong></td>
+<td>LLMs · Generative AI · NLP · Hugging Face · PyTorch · SymPy</td>
+<td>AI-assisted features, text processing, and mathematical solving</td>
+</tr>
+<tr>
+<td><strong>🛠️ Tools</strong></td>
+<td>Git · GitHub · VS Code · Postman · Axios</td>
+<td>Version control, API testing, and frontend-backend integration</td>
+</tr>
+</table>
+
 ---
 
 ## 🌱 Journey, Experience & Learning
@@ -156,12 +204,6 @@ My path has grown across **professional experience, product thinking, innovation
 <td>Cybersecurity foundations · Operational thinking</td>
 </tr>
 </table>
-
-<div align="center">
-
-<sub><strong>Experience → Experimentation → Recognition → Deeper Learning</strong></sub>
-
-</div>
 
 ---
 
