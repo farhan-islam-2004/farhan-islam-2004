@@ -197,8 +197,6 @@ Git · GitHub · VS Code · API Integration · Testing · Security · Documentat
 
 ---
 
-<img src="./assets/analytics.svg" width="100%" alt="Engineering snapshot"/>
-
 <div align="center">
 
 ### 📊 GitHub
