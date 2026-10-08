@@ -136,7 +136,7 @@ My path has grown across **professional experience, product thinking, innovation
 
 <table>
 <tr>
-<th align="left">Program / Experience</th>
+<th align="left">Program</th>
 <th align="left">Areas Explored</th>
 </tr>
 <tr>
