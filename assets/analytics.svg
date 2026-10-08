@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset=".5" stop-color="#a371f7"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+<style>.h{fill:#f0f6fc;font:700 28px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.l{fill:#8b949e;font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.v{fill:#58a6ff;font:700 18px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.b{fill:#c9d1d9;font:600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}</style>
+<rect width="1200" height="300" rx="22" fill="#0d1117" stroke="#30363d"/>
+<text x="45" y="52" class="h">Engineering Snapshot</text><text x="45" y="78" class="l">The work behind the profile — not just the numbers.</text>
+<g transform="translate(45 110)"><rect width="255" height="120" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="35" class="b">🎯 PRIMARY DIRECTION</text><text x="22" y="68" class="v">AI + Backend</text><text x="22" y="96" class="l">Intelligent, production-minded systems</text></g>
+<g transform="translate(320 110)"><rect width="255" height="120" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="35" class="b">🚀 FLAGSHIP BUILD</text><text x="22" y="68" class="v">MathVerse AI</text><text x="22" y="96" class="l">Math · reasoning · full-stack product</text></g>
+<g transform="translate(595 110)"><rect width="255" height="120" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="35" class="b">🧠 CURRENT PRACTICE</text><text x="22" y="68" class="v">Python + DSA</text><text x="22" y="96" class="l">Problem solving and engineering fundamentals</text></g>
+<g transform="translate(870 110)"><rect width="285" height="120" rx="16" fill="#161b22" stroke="#30363d"/><text x="22" y="35" class="b">🔁 BUILD LOOP</text><text x="22" y="68" class="v">Build → Test → Improve</text><text x="22" y="96" class="l">Ship useful software, then make it better</text></g>
+<path d="M45 258 C220 238 350 270 520 252 S820 238 1155 258" fill="none" stroke="url(#g)" stroke-width="3"/>
+</svg>
