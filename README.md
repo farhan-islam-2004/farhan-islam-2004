@@ -64,11 +64,36 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,vite,html,css,tailwind" alt="Languages and frontend"/>
+<table>
+<tr>
+<td align="center" width="33%"><strong>💻 Languages</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" alt="Languages"/>
+</td>
+<td align="center" width="33%"><strong>🎨 Frontend</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" alt="Frontend"/>
+</td>
+<td align="center" width="33%"><strong>⚙️ Backend</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" alt="Backend"/>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>🗄️ Databases</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+</td>
+<td align="center"><strong>🤖 AI & Mathematics</strong><br/><br/>
+<strong>LLMs · NLP · GenAI · SymPy</strong>
+</td>
+<td align="center"><strong>🛠️ Tools</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,mysql,git,github,vscode,postman" alt="Backend, databases and tools"/>
+<img src="https://img.shields.io/badge/Development-Full--Stack-2563EB?style=flat-square" alt="Full-stack development"/>
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-111827?style=flat-square" alt="Backend and AI"/>
+<img src="https://img.shields.io/badge/Workflow-Build%20%7C%20Test%20%7C%20Ship-334155?style=flat-square" alt="Build test ship"/>
 
 </div>
 
@@ -80,40 +105,59 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 
 <table>
 <tr>
-<th>🚀 Chapter</th>
-<th>What It Added to My Journey</th>
+<th>Chapter</th>
+<th>Experience</th>
+<th>What I Took From It</th>
 </tr>
 
 <tr>
-<td><strong>💼 Samsung Innovation Campus</strong></td>
-<td>One of my early opportunities to work in a structured technology environment and strengthen my foundation beyond classroom learning.</td>
+<td>💼 <strong>Samsung Innovation Campus</strong></td>
+<td>Technology-focused learning and hands-on exposure</td>
+<td>Built a stronger foundation and learned to approach technology through practical problem solving.</td>
 </tr>
 
 <tr>
-<td><strong>🐍 BroskiesHub</strong></td>
-<td>Hands-on experience as a <strong>Python Developer Intern</strong>, turning programming knowledge into practical development work.</td>
+<td>🐍 <strong>BroskiesHub</strong></td>
+<td>Python Developer Intern</td>
+<td>Moved from learning concepts to applying Python in real development work.</td>
 </tr>
 
 <tr>
-<td><strong>🌐 Int.kart</strong></td>
-<td>Stepped beyond pure development into a <strong>co-founder / developer-marketing</strong> role, learning how technology, products, and users connect.</td>
+<td>🌐 <strong>Int.kart</strong></td>
+<td>Co-founder / Developer-Marketing</td>
+<td>Learned that building a product also means understanding users, communication, and execution.</td>
 </tr>
 
 <tr>
-<td><strong>🌟 India’s Top 1000 Innovators 2025</strong></td>
-<td>A meaningful recognition of my innovation journey and the ideas I was exploring while building and experimenting with technology.</td>
+<td>🌟 <strong>India's Top 1000 Innovators 2025</strong></td>
+<td>Innovation recognition</td>
+<td>A milestone that reinforced my interest in turning technical ideas into useful solutions.</td>
 </tr>
 
 <tr>
-<td><strong>📚 Springer Nature</strong></td>
-<td>An abstract I worked on was accepted for a <strong>Springer Nature edited volume</strong>, giving me an opportunity to take my technical work into an academic and research-oriented space.</td>
+<td>📚 <strong>Springer Nature</strong></td>
+<td>Abstract accepted for an edited volume</td>
+<td>Connected my technical work with research, documentation, and academic communication.</td>
 </tr>
 
 </table>
 
 <br/>
 
-<em>Each chapter taught me something different — how to build, how to work with people, how to think about products, and how to turn ideas into meaningful technology.</em>
+<table>
+<tr>
+<td><strong>Then</strong></td>
+<td>Learning technology and experimenting with ideas</td>
+</tr>
+<tr>
+<td><strong>Now</strong></td>
+<td>Building AI-powered, full-stack products with stronger engineering practices</td>
+</tr>
+<tr>
+<td><strong>Next</strong></td>
+<td>Keep building, deepen backend & AI engineering, and turn ideas into products</td>
+</tr>
+</table>
 
 </div>
 
