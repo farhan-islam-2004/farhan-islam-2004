@@ -58,36 +58,6 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 - 📚 **Practice & Concepts** — designed to support learning, practice, and mathematical understanding
 - 📱 **Modern Responsive UI** — dark glassmorphism interface with animated interactions
 
-#### 🧠 MathVerse Architecture
-
-The platform is organized around specialized **Verse-based reasoning experiences**:
-
-**MathVerse · PhysicsVerse · ChemVerse · AccountVerse · ExamVerse · PracticeVerse · ConceptVerse · ScanVerse**
-
-At the core, the mathematical solving layer uses **SymPy** for symbolic computation, with dedicated solver services and standardized schemas. This keeps mathematical operations structured and reliable while AI models can be used for reasoning, explanations, and intelligent interaction.
-
-#### ⚙️ Tech Stack
-
-**Backend:** Python · FastAPI · Pydantic · SymPy
-
-**Frontend:** React · Vite · TypeScript · Axios · Framer Motion · Tailwind CSS
-
-**AI:** LLM integration · AI reasoning · structured mathematical explanations
-
-#### 🏗️ Engineering Highlights
-
-- **FastAPI + Pydantic** backend architecture
-- Dedicated **linear and quadratic solver services**
-- **SymPy** symbolic mathematics engine
-- Standardized **JSON schemas** between frontend and backend
-- **Axios** service layer for API communication
-- React/Vite frontend with **Framer Motion**
-- Dark **glassmorphism + glow** design system
-- Modular API routes, dependencies, and solver schemas
-- AI/LLM integration for intelligent explanations and reasoning
-
-> **Vision:** Build a complete AI-powered learning companion where mathematics is not just solved — it is explained, practiced, and understood.
-
 ---
 
 ## 🧰 Technology
