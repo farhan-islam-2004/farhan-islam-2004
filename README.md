@@ -3,74 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4D9FFF&center=true&vCenter=true&width=500&lines=BTech+CSE+Student;Full+Stack+Developer+in+Progress;Tech+Explorer+%7C+Dreamer+%7C+Builder" alt="Typing SVG" />
+  <strong>BTech CSE Student • Full-Stack Developer in Progress • Python & AI Enthusiast</strong>
 </p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Boy GIF" width="400"/>
-</div>
-
----
-
-## ✨ About Me  
-- 🔭 Currently working on **Python & Web Development** projects  
-- 🌱 Learning **Full-Stack Development** (Python, React, Node.js, MongoDB)  
-- 🎯 Goal: **Build impactful projects & start my own tech company**  
-- ⚡ Fun fact: I love solving coding challenges & creating simple games 🎲  
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-
-### 🧠 Languages
-<table>
-  <tr>
-    <td><strong>C</strong><br><img src="https://skillicons.dev/icons?i=c" width="40"/></td>
-    <td><strong>C++</strong><br><img src="https://skillicons.dev/icons?i=cpp" width="40"/></td>
-    <td><strong>Java</strong><br><img src="https://skillicons.dev/icons?i=java" width="40"/></td>
-  </tr>
-  <tr>
-    <td><strong>Python</strong><br><img src="https://skillicons.dev/icons?i=python" width="40"/></td>
-    <td><strong>JavaScript</strong><br><img src="https://skillicons.dev/icons?i=js" width="40"/></td>
-  </tr>
-</table>
-
-### 🎨 Frontend
-<table>
-  <tr>
-    <td><strong>HTML5</strong><br><img src="https://skillicons.dev/icons?i=html" width="40"/></td>
-    <td><strong>CSS3</strong><br><img src="https://skillicons.dev/icons?i=css" width="40"/></td>
-    <td><strong>React</strong><br><img src="https://skillicons.dev/icons?i=react" width="40"/></td>
-  </tr>
-</table>
-
-### 🔧 Backend
-<table>
-  <tr>
-    <td><strong>Node.js</strong><br><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></td>
-    <td><strong>MongoDB</strong><br><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></td>
-    <td><strong>MySQL</strong><br><img src="https://skillicons.dev/icons?i=mysql" width="40"/></td>
-  </tr>
-</table>
-
-### ⚙️ Tools
-<table>
-  <tr>
-    <td><strong>Git</strong><br><img src="https://skillicons.dev/icons?i=git" width="40"/></td>
-    <td><strong>GitHub</strong><br><img src="https://skillicons.dev/icons?i=github" width="40"/></td>
-  </tr>
-</table>
-
-</div>
-
-
----
-
-## 🌍 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farhanislam20">
@@ -83,6 +17,69 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a final-year BTech CSE student focused on building practical **full-stack, backend, and AI-powered applications**.
+
+- 🔭 Building projects with **Python, FastAPI/Flask, React, Node.js, and databases**
+- 🌱 Strengthening **DSA, backend engineering, APIs, and system design fundamentals**
+- 🤖 Interested in applying **AI/NLP** to real-world products
+- 🚀 Long-term goal: build products and eventually start my own tech company
+
+## 🧩 What I Build
+
+- **AI/NLP applications** — text processing, grammar correction, summarization, translation
+- **Full-stack web applications** — React frontends with Python/Node.js backends
+- **REST APIs** — authentication, data processing, integrations, and backend services
+- **Problem-solving projects** — practical applications built to learn and ship
+
+## ⭐ Selected Projects
+
+### 🌾 KisanSetu
+A multilingual, voice-first agricultural advisory and market-intelligence platform developed for **Smart India Hackathon 2026**.
+
+**Focus:** AI assistance • market intelligence • weather data • voice interaction • multilingual UX • FastAPI
+
+### ✍️ AI Text Assistant
+A full-stack NLP application for grammar and spelling correction, paraphrasing, humanization, summarization, and translation.
+
+**Focus:** Flask • React • TypeScript • Transformers • PyTorch • NLP
+
+## 🏆 Highlights
+
+- 🥇 **Smart India Hackathon** contestant — 2024, 2025
+- 🚜 **Smart India Hackathon 2026** — KisanSetu
+- 🌟 **India's Top 1000 Innovators 2025**
+- 📚 Abstract accepted for a **Springer Nature edited volume**
+- 💼 Experience through **Python development and technology-focused internships/programs**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,mysql" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+## 📈 Current Focus
+
+1. Mastering **Python DSA** and solving problems consistently
+2. Building stronger **backend and full-stack projects**
+3. Improving **production-readiness, testing, security, and documentation**
+4. Preparing for **software engineering opportunities**
+
+---
+
 <p align="center">
-  ⭐️ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+  <i>Build. Learn. Ship. Repeat.</i>
 </p>
