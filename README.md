@@ -86,9 +86,7 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 
 ## ⚙️ Tech Arsenal
 
-<div align="center">
 
-<img src="./assets/technology.svg?v=3" width="100%" alt="Tech Arsenal: categorized programming languages, frontend, backend, databases, AI/ML and developer tools"/>
 
 </div>
 
