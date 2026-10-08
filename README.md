@@ -1,87 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Farhan%20Islam%20Sekh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&descSize=17" width="100%" alt="Farhan Islam Sekh"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=AI+Engineer+%26+Full-Stack+Developer;Python+%7C+FastAPI+%7C+React+%7C+Node.js;Building+AI-powered+products+that+solve+real+problems;Final-year+BTech+CSE+student+%7C+Builder+%7C+Learner;Future+Founder+%7C+Build.+Grow.+Ship." alt="Animated introduction"/>
+<img src="./assets/hero.svg" width="100%" alt="Farhan Islam Sekh — AI, Backend and Full-Stack Developer"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/farhanislam20">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:farhanrohit2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/farhan-islam-2004?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
+<a href="https://www.linkedin.com/in/farhanislam20"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:farhanrohit2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/farhan-islam-2004?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/></a>
 
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+## 👋 Who I Am
 
 <div align="center">
 
-### I build software where **AI meets real-world problems.**
+### **I build software where AI meets real-world problems.**
 
-<p>
-  <strong>AI/ML</strong> &nbsp;•&nbsp;
-  <strong>Generative AI & LLMs</strong> &nbsp;•&nbsp;
-  <strong>Python & Backend</strong> &nbsp;•&nbsp;
-  <strong>Full-Stack Engineering</strong>
-</p>
+**AI/ML** · **Generative AI** · **Python & Backend** · **Full-Stack Engineering**
 
 </div>
 
-I'm a **final-year Computer Science student and AI/Full-Stack developer** who enjoys turning ideas into working products — from the first architecture decision and API endpoint to the interface a user actually interacts with.
+I'm a **final-year Computer Science student and AI/Full-Stack developer** who enjoys taking an idea from a blank page to a working product.
 
-My strongest interest sits at the intersection of **AI/ML, Generative AI, backend engineering, and product development**. I don't want AI to be a feature added at the end; I enjoy designing systems where the intelligence, data, backend, and user experience work together.
+My strongest interests sit at the intersection of **AI/ML, Generative AI, backend engineering, and product development**. I like understanding the problem first, choosing technology deliberately, building the system end-to-end, and then improving what I ship.
 
-### 🧠 How I Think About Building
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | My Approach |
-|:---:|---|
-| **01** | **Start with the problem** — understand what needs to be solved before choosing the technology. |
-| **02** | **Build the intelligence** — use ML, NLP, LLMs, RAG, or deterministic logic where they genuinely add value. |
-| **03** | **Engineer the system** — turn the idea into APIs, services, data flows, authentication, and maintainable code. |
-| **04** | **Make it usable** — connect the backend to a thoughtful React interface and a clear user experience. |
-| **05** | **Keep improving** — test, secure, document, measure, and iterate instead of stopping at a prototype. |
+### 🧠 How I Build
 
-### ⚙️ What I Work With
+**01 — Understand**  
+Start with the problem, users, constraints, and desired outcome.
 
-**AI / ML**  
-Python · Scikit-Learn · PyTorch · NLP · Hugging Face · LLMs · RAG · Generative AI
+**02 — Design**  
+Choose the architecture, data flow, APIs, and technologies that actually fit.
 
-**Backend & Data**  
-FastAPI · Flask · Node.js · REST APIs · Authentication · MongoDB · MySQL
+**03 — Build**  
+Turn the idea into services, interfaces, integrations, and intelligent features.
 
-**Frontend**  
-React · Vite · TypeScript · JavaScript · Tailwind CSS
+</td>
+<td width="50%" valign="top">
 
-**Engineering**  
-Git · GitHub · API Integration · Testing · Security · Documentation
+### ⚡ What Drives Me
 
-### 🚀 What I'm About
+**AI that is useful**  
+Not AI for the sake of AI — intelligence that solves a real problem.
 
-I've explored software from different angles — **Python development at BroskiesHub, technology-focused experience through Samsung Innovation Campus, product and developer-marketing work at Int.kart, innovation projects, and research-oriented work**.
+**Engineering that lasts**  
+Readable code, secure APIs, testing, documentation, and maintainability.
 
-Those experiences shaped how I build today: **technical depth matters, but so do product thinking, communication, experimentation, and the ability to ship.**
+**Products people can use**  
+A working interface matters just as much as a working backend.
 
-Whether I'm building **MathVerse AI**, working on AI-powered systems, or solving a DSA problem, the mindset stays the same:
+</td>
+</tr>
+</table>
 
 > **Understand deeply. Build deliberately. Make it useful.**
-
-<div align="center">
-
-**AI/ML → Generative AI → Python/Backend → Full-Stack**
-
-<sub>Building intelligent software from idea to implementation.</sub>
-
-</div>
 
 ---
 
@@ -93,176 +71,157 @@ Whether I'm building **MathVerse AI**, working on AI-powered systems, or solving
 
 MathVerse AI combines a **deterministic mathematical solver engine** with AI-assisted reasoning and a modern full-stack interface. The goal is not only to produce an answer, but to help users understand **how and why** a problem is solved.
 
-#### ✨ Core Features
+### ✨ Core Features
 
-- 🧮 **Math Keyboard** — an interactive input experience for mathematical expressions
-- 🔐 **User Accounts** — authentication and personalized user experience
-- 🧾 **Calculation History** — previous calculations can be stored and revisited
-- 📐 **Solver Engine** — dedicated solving workflows for mathematical problems
-- 🪜 **Step-by-Step Solutions** — detailed derivations instead of answer-only output
-- 🧠 **Reasoning Engine** — structured AI-assisted reasoning across different learning modes
-- 📚 **Practice & Concepts** — designed to support learning, practice, and mathematical understanding
-- 📱 **Modern Responsive UI** — dark glassmorphism interface with animated interactions
+| Capability | What it does |
+|:--|:--|
+| 🧮 **Math Keyboard** | Interactive input for mathematical expressions |
+| 🔐 **User Accounts** | Authentication and personalized user experience |
+| 🧾 **Calculation History** | Store and revisit previous calculations |
+| 📐 **Solver Engine** | Dedicated workflows for mathematical problems |
+| 🪜 **Step-by-Step Solutions** | Detailed derivations instead of answer-only output |
+| 🧠 **AI Reasoning** | Intelligent explanations and reasoning workflows |
+| 📚 **Practice & Concepts** | Designed for learning, practice, and understanding |
+| 📱 **Modern UI** | Responsive dark glassmorphism interface with animated interactions |
+
+**Built with:** Python · FastAPI · Pydantic · SymPy · React · Vite · TypeScript · Axios · Framer Motion · Tailwind CSS · LLMs
 
 ---
 
-## 🧰 Technology
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%"><strong>💻 Languages</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" alt="Languages"/>
-</td>
-<td align="center" width="33%"><strong>🎨 Frontend</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" alt="Frontend"/>
-</td>
-<td align="center" width="33%"><strong>⚙️ Backend</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" alt="Backend"/>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>🗄️ Databases</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
-</td>
-<td align="center"><strong>🤖 AI & Mathematics</strong><br/><br/>
-<strong>LLMs · NLP · GenAI · SymPy</strong>
-</td>
-<td align="center"><strong>🛠️ Tools</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Development-Full--Stack-2563EB?style=flat-square" alt="Full-stack development"/>
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-111827?style=flat-square" alt="Backend and AI"/>
-<img src="https://img.shields.io/badge/Workflow-Build%20%7C%20Test%20%7C%20Ship-334155?style=flat-square" alt="Build test ship"/>
-
-</div>
+<img src="./assets/technology.svg" width="100%" alt="Technology stack"/>
 
 ---
 
 ## 🏆 Journey & Highlights
 
-<div align="center">
+I have explored technology from several angles — development, product building, innovation, and research.
 
 <table>
 <tr>
-<th>Chapter</th>
-<th>Experience</th>
-<th>What I Took From It</th>
+<th align="left">Chapter</th>
+<th align="left">Experience</th>
+<th align="left">What it taught me</th>
 </tr>
-
 <tr>
 <td>💼 <strong>Samsung Innovation Campus</strong></td>
 <td>Technology-focused learning and hands-on exposure</td>
-<td>Built a stronger foundation and learned to approach technology through practical problem solving.</td>
+<td>Strong foundations and practical problem solving.</td>
 </tr>
-
 <tr>
 <td>🐍 <strong>BroskiesHub</strong></td>
 <td>Python Developer Intern</td>
-<td>Moved from learning concepts to applying Python in real development work.</td>
+<td>Turning programming concepts into practical development work.</td>
 </tr>
-
 <tr>
 <td>🌐 <strong>Int.kart</strong></td>
 <td>Co-founder / Developer-Marketing</td>
-<td>Learned that building a product also means understanding users, communication, and execution.</td>
+<td>How technology, products, users, communication, and execution connect.</td>
 </tr>
-
 <tr>
 <td>🌟 <strong>India's Top 1000 Innovators 2025</strong></td>
 <td>Innovation recognition</td>
-<td>A milestone that reinforced my interest in turning technical ideas into useful solutions.</td>
+<td>Reinforced my interest in turning technical ideas into useful solutions.</td>
 </tr>
-
 <tr>
 <td>📚 <strong>Springer Nature</strong></td>
 <td>Abstract accepted for an edited volume</td>
-<td>Connected my technical work with research, documentation, and academic communication.</td>
+<td>Experience connecting technical work with research and communication.</td>
 </tr>
-
 </table>
 
-<br/>
+<div align="center">
+
+**Learn → Experiment → Build → Reflect → Improve**
+
+</div>
+
+---
+
+## 🧰 Technology
+
+<img src="./assets/technology.svg" width="100%" alt="Farhan's technology stack"/>
 
 <table>
 <tr>
-<td><strong>Then</strong></td>
-<td>Learning technology and experimenting with ideas</td>
-</tr>
-<tr>
-<td><strong>Now</strong></td>
-<td>Building AI-powered, full-stack products with stronger engineering practices</td>
-</tr>
-<tr>
-<td><strong>Next</strong></td>
-<td>Keep building, deepen backend & AI engineering, and turn ideas into products</td>
+<td width="50%" valign="top">
+
+**💻 Languages**
+
+Python · JavaScript · TypeScript · Java · C · C++
+
+**⚙️ Backend**
+
+FastAPI · Flask · Node.js · REST APIs · JWT · Pydantic
+
+**🗄️ Data**
+
+MongoDB · MySQL
+
+</td>
+<td width="50%" valign="top">
+
+**⚛️ Frontend**
+
+React · Vite · Tailwind CSS · Framer Motion
+
+**🤖 AI / ML**
+
+LLMs · Generative AI · NLP · RAG · Hugging Face · PyTorch · SymPy
+
+**🛠️ Engineering**
+
+Git · GitHub · VS Code · API Integration · Testing · Security · Documentation
+
+</td>
 </tr>
 </table>
-
-</div>
 
 ---
 
 ## 🌍 Learning Beyond Code
 
-In 2026, I've been actively exploring how modern AI is changing the way software is built.
+2026 has been a year of deliberately expanding from **writing software** to understanding how modern intelligent systems are designed and shipped.
 
-- 🤖 **GEN AI Camp — AlgoUniversity:** Generative AI, multimodal AI, embeddings, vector search and AI product design
-- 🌐 **Google I/O Extended Kolkata 2026:** AI-assisted SRE, agentic AI, context engineering and modern AI workflows
-- 🧠 **Build with AI Bootcamp — Google for Developers:** Google AI Studio, Gemini, AI agents and deployable AI applications
-- 🔐 **CyberOps Associate — Cisco Networking Academy**
-
-These experiences have reinforced one idea:
+| Experience | Focus |
+|:--|:--|
+| 🤖 **GEN AI Camp — AlgoUniversity** | Generative AI · Multimodal AI · Embeddings · Vector Search · AI Product Design |
+| 🌐 **Google I/O Extended Kolkata 2026** | AI-assisted SRE · Agentic AI · Context Engineering |
+| 🧠 **Build with AI Bootcamp — Google for Developers** | Google AI Studio · Gemini · AI Agents · Deployable AI applications |
+| 🔐 **CyberOps Associate — Cisco Networking Academy** | Cybersecurity foundations and operational thinking |
 
 > **Don't just learn technology. Build with it.**
 
 ---
 
-## 📈 What I'm Focused On Right Now
+## 🎯 What I'm Focused On
 
 <div align="center">
 
-**DSA** → **Backend Engineering** → **AI Engineering** → **Full-Stack Products** → **Production Readiness**
+**PYTHON & DSA** → **BACKEND ENGINEERING** → **AI ENGINEERING** → **FULL-STACK PRODUCTS** → **PRODUCTION READINESS**
 
 </div>
 
-- 🧠 Solving **Python DSA / LeetCode** problems consistently
-- ⚙️ Deepening backend skills in **APIs, authentication, databases, testing and system design**
-- 🤖 Building practical **AI/GenAI applications**
-- 🧪 Improving **security, testing, documentation and maintainability**
+- 🧠 Building stronger **Python DSA and problem-solving fundamentals**
+- ⚙️ Deepening **APIs, authentication, databases, testing, security, and system design**
+- 🤖 Building practical **AI / GenAI applications**
+- 🧪 Improving **code quality, documentation, reliability, and maintainability**
+- 🚀 Turning project ideas into products that are actually useful
 
 ---
 
-## 📊 GitHub Analytics
+<img src="./assets/analytics.svg" width="100%" alt="Engineering snapshot"/>
 
 <div align="center">
 
-<img src="./assets/github-analytics.svg" width="100%" alt="Farhan Islam Sekh GitHub analytics dashboard"/>
+### 📊 GitHub
+
+<a href="https://github.com/farhan-islam-2004?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20my%20work-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
 
 <br/><br/>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farhan-islam-2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark&custom_title=GitHub%20Overview" alt="GitHub overview"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-islam-2004&layout=compact&hide_border=true&langs_count=8&theme=github_dark&custom_title=Languages%20I%20Build%20With" alt="Most used languages"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<sub>This profile is intentionally focused on the work: projects, engineering, learning, and the journey behind them.</sub>
 
 </div>
 
@@ -274,24 +233,28 @@ These experiences have reinforced one idea:
 
 ### **Build → Break → Learn → Improve → Ship**
 
-I believe the best way to learn software engineering is to **build real things, solve real problems, and keep improving them.**
+I believe the best way to become a better engineer is to **build real things, encounter real problems, understand why they happen, and improve the system instead of hiding the rough edges.**
+
+<br/>
+
+**Curiosity creates the idea.  
+Engineering makes it real.  
+Iteration makes it better.**
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm open to connecting with developers, builders, mentors, recruiters, and people working on **AI, backend engineering, full-stack development, and meaningful technology products**.
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/farhanislam20">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
+<img src="./assets/footer.svg" width="100%" alt="Build things worth remembering"/>
 
 <br/><br/>
 
-<sub>Build. Grow. Ship. 🚀</sub>
+<a href="https://www.linkedin.com/in/farhanislam20"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+
+<br/><br/>
+
+<sub>© Farhan Islam Sekh · Built with curiosity, code, and a lot of iteration.</sub>
 
 </div>
