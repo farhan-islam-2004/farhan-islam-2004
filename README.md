@@ -88,8 +88,6 @@ MathVerse AI combines a **deterministic mathematical solver engine** with AI-ass
 
 ---
 
-<img src="./assets/technology.svg" width="100%" alt="Technology stack"/>
-
 ---
 
 ## 🏆 Journey & Highlights
