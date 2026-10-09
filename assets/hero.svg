@@ -1,130 +1,134 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Farhan Islam Sekh — AI, Backend and Full-Stack Developer</title>
-  <desc id="desc">A dark, cinematic technology banner with a glowing mathematical neural orbit, connected nodes, and a subtle animated energy path.</desc>
+  <title id="title">Farhan Islam Sekh — Creative code in motion</title>
+  <desc id="desc">An animated cybernetic canvas with glitch typography, electric orbital geometry, moving scan lines, code fragments, and a vivid neon color field.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#060913"/>
-      <stop offset=".52" stop-color="#0b1428"/>
-      <stop offset="1" stop-color="#11152a"/>
+      <stop stop-color="#03050b"/><stop offset=".48" stop-color="#0a0b1d"/><stop offset="1" stop-color="#071a20"/>
     </linearGradient>
-    <linearGradient id="energy" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#55d6ff"/>
-      <stop offset=".48" stop-color="#8b7bff"/>
-      <stop offset="1" stop-color="#53f0c2"/>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00f5ff"/><stop offset=".36" stop-color="#8a5cff"/><stop offset=".7" stop-color="#ff3cac"/><stop offset="1" stop-color="#b6ff00"/>
     </linearGradient>
-    <linearGradient id="type" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#f4f8ff"/>
-      <stop offset=".72" stop-color="#b9d8ff"/>
-      <stop offset="1" stop-color="#a9fff0"/>
+    <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ffffff"/><stop offset=".45" stop-color="#d9faff"/><stop offset=".78" stop-color="#b8a2ff"/><stop offset="1" stop-color="#6ffff0"/>
     </linearGradient>
-    <radialGradient id="core">
-      <stop stop-color="#a9f4ff" stop-opacity=".38"/>
-      <stop offset=".42" stop-color="#6d7cff" stop-opacity=".13"/>
-      <stop offset="1" stop-color="#6d7cff" stop-opacity="0"/>
+    <radialGradient id="nebula">
+      <stop stop-color="#693cff" stop-opacity=".28"/><stop offset=".55" stop-color="#00f5ff" stop-opacity=".09"/><stop offset="1" stop-color="#00f5ff" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#9bbaff" stroke-opacity=".055" stroke-width="1"/>
-      <circle cx="0" cy="0" r="1" fill="#91b9ff" fill-opacity=".17"/>
+    <pattern id="microgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#8ebfff" stroke-opacity=".07"/>
     </pattern>
-    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
-    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <filter id="bigGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="360" rx="18"/></clipPath>
     <style>
-      @keyframes orbit { to { transform: rotate(360deg); } }
-      @keyframes orbitBack { to { transform: rotate(-360deg); } }
-      @keyframes breathe { 0%,100% { opacity:.45; } 50% { opacity:.95; } }
-      @keyframes dash { to { stroke-dashoffset:-180; } }
-      @keyframes float { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-7px); } }
-      @keyframes reveal { from { opacity:0; transform:translateY(9px); } to { opacity:1; transform:translateY(0); } }
-      .orbit-a { transform-origin:930px 177px; animation:orbit 46s linear infinite; }
-      .orbit-b { transform-origin:930px 177px; animation:orbitBack 32s linear infinite; }
-      .core-pulse { animation:breathe 5s ease-in-out infinite; }
-      .energy-path { stroke-dasharray:8 13; animation:dash 15s linear infinite; }
-      .float { animation:float 7s ease-in-out infinite; }
-      .eyebrow { animation:reveal .8s ease-out both; }
-      .headline { animation:reveal 1s .08s ease-out both; }
-      .subline { animation:reveal 1s .18s ease-out both; }
-      .pill { animation:reveal 1s .28s ease-out both; }
+      @keyframes spin { to { transform:rotate(360deg); } }
+      @keyframes spinBack { to { transform:rotate(-360deg); } }
+      @keyframes jitter { 0%,88%,100% { transform:translate(0,0); } 90% { transform:translate(3px,-1px); } 92% { transform:translate(-2px,1px); } 94% { transform:translate(1px,0); } }
+      @keyframes flicker { 0%,19%,21%,63%,65%,100% { opacity:1; } 20%,64% { opacity:.45; } }
+      @keyframes scan { from { transform:translateY(-380px); } to { transform:translateY(380px); } }
+      @keyframes travel { to { stroke-dashoffset:-260; } }
+      @keyframes bob { 0%,100% { transform:translateY(0) rotate(0deg); } 50% { transform:translateY(-8px) rotate(4deg); } }
+      @keyframes pulse { 0%,100% { opacity:.25; } 50% { opacity:.9; } }
+      @keyframes drift { 0%,100% { transform:translate(0,0); } 50% { transform:translate(15px,-9px); } }
+      .ring-one { transform-origin:930px 178px; animation:spin 17s linear infinite; }
+      .ring-two { transform-origin:930px 178px; animation:spinBack 11s linear infinite; }
+      .ring-three { transform-origin:930px 178px; animation:spin 27s linear infinite; }
+      .glitch { animation:jitter 6s steps(1,end) infinite; }
+      .flicker { animation:flicker 7s linear infinite; }
+      .scanline { animation:scan 8s linear infinite; }
+      .dash { stroke-dasharray:12 18; animation:travel 8s linear infinite; }
+      .bob { transform-origin:930px 178px; animation:bob 3.6s ease-in-out infinite; }
+      .pulse { animation:pulse 2.8s ease-in-out infinite; }
+      .drift { animation:drift 9s ease-in-out infinite; }
+      .intro { animation:rise .9s cubic-bezier(.2,.8,.2,1) both; }
+      @keyframes rise { from { opacity:0; transform:translateY(14px); } to { opacity:1; transform:translateY(0); } }
       @media (prefers-reduced-motion:reduce) {
-        .orbit-a,.orbit-b,.core-pulse,.energy-path,.float,.eyebrow,.headline,.subline,.pill { animation:none; }
+        .ring-one,.ring-two,.ring-three,.glitch,.flicker,.scanline,.dash,.bob,.pulse,.drift,.intro { animation:none; }
       }
     </style>
   </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#microgrid)"/>
+    <circle class="drift" cx="1010" cy="165" r="240" fill="url(#nebula)"/>
+    <circle cx="1030" cy="185" r="105" fill="#ff3cac" opacity=".08" filter="url(#bigGlow)"/>
+    <circle cx="810" cy="70" r="100" fill="#00f5ff" opacity=".09" filter="url(#bigGlow)"/>
 
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <circle cx="1000" cy="95" r="155" fill="#3569ff" opacity=".12" filter="url(#blur)"/>
-  <circle cx="820" cy="310" r="130" fill="#8d5cff" opacity=".10" filter="url(#blur)"/>
-  <path d="M0 305 C180 276 265 329 410 298 S650 277 760 298 S1025 327 1200 260" fill="none" stroke="url(#energy)" stroke-width="1.5" opacity=".36"/>
-  <path class="energy-path" d="M0 305 C180 276 265 329 410 298 S650 277 760 298 S1025 327 1200 260" fill="none" stroke="url(#energy)" stroke-width="2.5" opacity=".8"/>
+    <!-- Fast-moving data rails -->
+    <path d="M0 320L150 270L235 292L355 220L465 246L560 172L680 202L770 126L860 148L960 74L1200 103" fill="none" stroke="url(#neon)" stroke-width="1.3" opacity=".36"/>
+    <path class="dash" d="M0 320L150 270L235 292L355 220L465 246L560 172L680 202L770 126L860 148L960 74L1200 103" fill="none" stroke="url(#neon)" stroke-width="2.2" filter="url(#glow)"/>
+    <path d="M0 44H120L140 64H220M980 320H1080L1100 300H1200" fill="none" stroke="#00f5ff" stroke-opacity=".48"/>
+    <path d="M20 20h38M20 20v38M1180 340h-38M1180 340v-38" fill="none" stroke="url(#neon)" stroke-width="2"/>
 
-  <!-- Text block -->
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    <rect x="66" y="48" width="5" height="18" rx="2.5" fill="url(#energy)"/>
-    <text class="eyebrow" x="84" y="62" fill="#a7b9d8" font-size="14" font-weight="700" letter-spacing="3">FARHAN ISLAM SEKH</text>
-    <text class="headline" x="66" y="126" fill="url(#type)" font-size="43" font-weight="760" letter-spacing="-1.4">AI × Backend × Full-Stack</text>
-    <text class="subline" x="68" y="163" fill="#c4cee0" font-size="17.5">Engineering intelligent ideas into useful products.</text>
-
-    <g class="pill">
-      <rect x="67" y="195" width="203" height="37" rx="18.5" fill="#101b30" stroke="#4c8dff" stroke-opacity=".55"/>
-      <circle cx="85" cy="213.5" r="3.5" fill="#63caff" filter="url(#softGlow)"/>
-      <text x="98" y="218" fill="#d5e8ff" font-size="12" font-weight="700" letter-spacing="1">PYTHON · FASTAPI · REACT</text>
+    <!-- Type: less advertisement, more personal identity -->
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+      <text class="intro" x="64" y="58" fill="#8fa4c7" font-size="12" font-weight="700" letter-spacing="4">INDEPENDENTLY CURIOUS  /  CONSTANTLY BUILDING</text>
+      <g class="glitch">
+        <text x="61" y="132" fill="#00f5ff" opacity=".6" font-size="48" font-weight="800" letter-spacing="-1.8">FARHAN ISLAM SEKH</text>
+        <text x="67" y="128" fill="#ff3cac" opacity=".5" font-size="48" font-weight="800" letter-spacing="-1.8">FARHAN ISLAM SEKH</text>
+        <text x="64" y="130" fill="url(#headline)" font-size="48" font-weight="800" letter-spacing="-1.8">FARHAN ISLAM SEKH</text>
+      </g>
+      <text class="intro" x="67" y="171" fill="#e1e9ff" font-size="19" font-weight="500">AI <tspan fill="#00f5ff">×</tspan> Backend <tspan fill="#a98aff">×</tspan> Full-Stack</text>
+      <text x="67" y="214" fill="#8b9cbd" font-size="12" letter-spacing="2.5">I TURN CURIOSITY INTO CODE.</text>
+      <path d="M67 232H402" stroke="url(#neon)" stroke-width="2"/>
+      <path d="M67 232H160" stroke="#fff" stroke-width="2" class="dash" filter="url(#glow)"/>
+      <g class="intro" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">
+        <text x="68" y="265" fill="#68f7ee">while (curious) {</text>
+        <text x="88" y="284" fill="#b2a2ff">  build(); learn(); repeat();</text>
+        <text x="68" y="303" fill="#68f7ee">}</text>
+      </g>
+      <text class="flicker" x="68" y="337" fill="#7d8cad" font-size="10" letter-spacing="2">PYTHON / SYSTEMS / INTELLIGENT SOFTWARE</text>
     </g>
-    <g class="pill">
-      <rect x="281" y="195" width="166" height="37" rx="18.5" fill="#17152d" stroke="#a38bff" stroke-opacity=".55"/>
-      <circle cx="299" cy="213.5" r="3.5" fill="#b29cff" filter="url(#softGlow)"/>
-      <text x="312" y="218" fill="#e2dcff" font-size="12" font-weight="700" letter-spacing="1">AI · GENAI · NLP</text>
+
+    <!-- A chaotic mathematical reactor, not a corporate logo -->
+    <circle cx="930" cy="178" r="158" fill="url(#nebula)"/>
+    <g class="ring-one" fill="none" stroke="url(#neon)" stroke-width="1.6">
+      <ellipse cx="930" cy="178" rx="156" ry="48"/>
+      <ellipse cx="930" cy="178" rx="156" ry="48" transform="rotate(60 930 178)"/>
+      <ellipse cx="930" cy="178" rx="156" ry="48" transform="rotate(120 930 178)"/>
     </g>
-    <text x="68" y="276" fill="#8294b3" font-size="11.5" font-weight="650" letter-spacing="3">DESIGN WITH INTENT  /  BUILD WITH PURPOSE</text>
-  </g>
+    <g class="ring-two" fill="none" stroke="#00f5ff" stroke-width="1.1" stroke-dasharray="2 7" opacity=".8">
+      <ellipse cx="930" cy="178" rx="171" ry="77" transform="rotate(24 930 178)"/>
+      <ellipse cx="930" cy="178" rx="171" ry="77" transform="rotate(84 930 178)"/>
+      <ellipse cx="930" cy="178" rx="171" ry="77" transform="rotate(144 930 178)"/>
+    </g>
+    <g class="ring-three" fill="none" stroke="#ff3cac" stroke-width="1" opacity=".72">
+      <circle cx="930" cy="178" r="121" stroke-dasharray="26 9 3 13"/>
+      <circle cx="930" cy="178" r="139" stroke-dasharray="2 15"/>
+    </g>
+    <g class="bob">
+      <circle cx="930" cy="178" r="43" fill="#090d1e" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+      <circle cx="930" cy="178" r="34" fill="none" stroke="#d5faff" stroke-opacity=".42" stroke-dasharray="3 5"/>
+      <text x="930" y="188" text-anchor="middle" fill="#f1fdff" font-family="Georgia,serif" font-size="32" font-style="italic">∑</text>
+    </g>
 
-  <!-- Mathematical neural-orbit signature -->
-  <g class="core-pulse">
-    <circle cx="930" cy="177" r="132" fill="url(#core)"/>
-    <circle cx="930" cy="177" r="100" fill="none" stroke="#79aaff" stroke-opacity=".13"/>
-    <circle cx="930" cy="177" r="75" fill="none" stroke="#79aaff" stroke-opacity=".10" stroke-dasharray="2 8"/>
-  </g>
-  <g class="orbit-a" fill="none" stroke="url(#energy)" stroke-width="1.2">
-    <ellipse cx="930" cy="177" rx="133" ry="49" opacity=".68"/>
-    <ellipse cx="930" cy="177" rx="133" ry="49" transform="rotate(60 930 177)" opacity=".62"/>
-    <ellipse cx="930" cy="177" rx="133" ry="49" transform="rotate(120 930 177)" opacity=".62"/>
-  </g>
-  <g class="orbit-b" fill="none" stroke="#7ba8ff" stroke-width="1" stroke-dasharray="3 8" opacity=".58">
-    <ellipse cx="930" cy="177" rx="151" ry="67" transform="rotate(26 930 177)"/>
-    <ellipse cx="930" cy="177" rx="151" ry="67" transform="rotate(86 930 177)"/>
-  </g>
-  <g class="float">
-    <circle cx="930" cy="177" r="38" fill="#16284b" fill-opacity=".88" stroke="#a3c7ff" stroke-opacity=".7"/>
-    <circle cx="930" cy="177" r="31" fill="none" stroke="url(#energy)" stroke-opacity=".65"/>
-    <path d="M914 177h32 M930 161v32" stroke="#7caaff" stroke-opacity=".35"/>
-    <text x="930" y="184" text-anchor="middle" fill="#eaf7ff" font-family="Georgia,serif" font-size="25" font-style="italic">∑</text>
-  </g>
+    <!-- Orbiting sparks -->
+    <g class="pulse" fill="#b6ff00" filter="url(#glow)">
+      <circle cx="930" cy="22" r="3"/><circle cx="1085" cy="178" r="3"/>
+      <circle cx="930" cy="334" r="3"/><circle cx="775" cy="178" r="3"/>
+    </g>
+    <g fill="none" stroke="#9bbaff" stroke-opacity=".62">
+      <path d="M793 104l24 0 10 10M1057 85h28v20M1077 270h-22l-10-10M803 268v-19h18"/>
+      <path d="M840 72l8 8m-8 0l8-8M1097 210l8 8m-8 0l8-8" stroke="#ff3cac"/>
+    </g>
+    <g class="flicker" font-family="ui-monospace,monospace" font-size="12" fill="#b9a6ff">
+      <text x="795" y="78">0x01</text><text x="1061" y="123">AI()</text>
+      <text x="1052" y="298">∞</text><text x="786" y="291">∂x</text>
+    </g>
+    <g fill="#d9faff" filter="url(#glow)">
+      <circle cx="821" cy="114" r="2.8"/><circle cx="871" cy="92" r="1.8"/>
+      <circle cx="1039" cy="103" r="2.4"/><circle cx="1080" cy="151" r="2"/>
+      <circle cx="1051" cy="241" r="2.8"/><circle cx="1000" cy="270" r="1.8"/>
+      <circle cx="842" cy="246" r="2.4"/><circle cx="802" cy="199" r="1.8"/>
+    </g>
 
-  <!-- Connected nodes -->
-  <g stroke="#79b8ff" stroke-opacity=".55" fill="none">
-    <path d="M825 119L871 143L903 102M1001 117L1035 153L1084 139M1004 232L1046 257L1090 231M849 235L884 211L862 270" stroke-width="1.2"/>
-    <path d="M871 143L862 91M1035 153L1064 185M1046 257L1017 284M884 211L904 246" stroke-opacity=".28"/>
+    <!-- One passing scan gives the whole canvas motion -->
+    <g opacity=".17" class="scanline">
+      <rect x="0" y="0" width="1200" height="2" fill="#d7fbff" filter="url(#glow)"/>
+    </g>
   </g>
-  <g fill="#8ddfff" filter="url(#softGlow)">
-    <circle cx="825" cy="119" r="3"/><circle cx="871" cy="143" r="4"/>
-    <circle cx="903" cy="102" r="2.5"/><circle cx="1001" cy="117" r="3.5"/>
-    <circle cx="1035" cy="153" r="4"/><circle cx="1084" cy="139" r="2.5"/>
-    <circle cx="1004" cy="232" r="3"/><circle cx="1046" cy="257" r="4"/>
-    <circle cx="1090" cy="231" r="2.5"/><circle cx="849" cy="235" r="3"/>
-    <circle cx="884" cy="211" r="3.5"/><circle cx="862" cy="270" r="2.5"/>
-  </g>
-  <g font-family="Georgia,serif" fill="#a7c5ff" opacity=".8">
-    <text x="795" y="91" font-size="19">∫</text>
-    <text x="1062" y="103" font-size="18">π</text>
-    <text x="1091" y="281" font-size="17">∞</text>
-    <text x="804" y="269" font-size="16">∂</text>
-  </g>
-  <g fill="#a6c7ff" opacity=".5">
-    <circle cx="787" cy="173" r="1.5"/><circle cx="1105" cy="177" r="1.5"/>
-    <circle cx="968" cy="47" r="1.5"/><circle cx="963" cy="307" r="1.5"/>
-    <circle cx="1126" cy="203" r="1"/><circle cx="766" cy="218" r="1"/>
-  </g>
-  <path d="M1180 30h-25M1180 30v25M20 330h25M20 330v-25" fill="none" stroke="#7898d0" stroke-opacity=".38" stroke-width="1.5"/>
 </svg>
