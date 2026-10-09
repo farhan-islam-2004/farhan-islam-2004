@@ -61,28 +61,7 @@ A working interface matters just as much as a working backend.
 
 ---
 
-## 🚀 What I'm Building
 
-### 🧮 MathVerse AI
-
-**An AI-powered mathematical problem-solving platform designed to make solving, understanding, and practicing mathematics more interactive.**
-
-MathVerse AI combines a **deterministic mathematical solver engine** with AI-assisted reasoning and a modern full-stack interface. The goal is not only to produce an answer, but to help users understand **how and why** a problem is solved.
-
-### ✨ Core Features
-
-| Capability | What it does |
-|:--|:--|
-| 🧮 **Math Keyboard** | Interactive input for mathematical expressions |
-| 🔐 **User Accounts** | Authentication and personalized user experience |
-| 🧾 **Calculation History** | Store and revisit previous calculations |
-| 📐 **Solver Engine** | Dedicated workflows for mathematical problems |
-| 🪜 **Step-by-Step Solutions** | Detailed derivations instead of answer-only output |
-| 🧠 **AI Reasoning** | Intelligent explanations and reasoning workflows |
-| 📚 **Practice & Concepts** | Designed for learning, practice, and understanding |
-| 📱 **Modern UI** | Responsive dark glassmorphism interface with animated interactions |
-
----
 
 ## ⚙️ Tech Arsenal
 
